@@ -22,6 +22,6 @@
     "fixed": "Mixins.Positionable.props.fixed"
   },
   "events": {
-    'update:active': '`active.sync` 에 쓰이는 이벤트'
+    "update:active": '`active.sync` 에 쓰이는 이벤트'
   }
 }

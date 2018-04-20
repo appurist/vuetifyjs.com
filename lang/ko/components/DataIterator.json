@@ -16,6 +16,6 @@
     "prevIcon": "Mixins.Input.props.prependIcon"
   },
   "events": {
-    'update:pagination': '`pagination.sync` update 이벤트'
+    "update:pagination": '`pagination.sync` update 이벤트'
   }
 }

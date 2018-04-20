@@ -70,6 +70,6 @@
   "events": {
     "blur": "Mixins.Input.events.blur",
     "change": "Mixins.Input.events.change",
-    'update:error': 'Mixins.Input.events.update:error'
+    "update:error": 'Mixins.Input.events.update:error'
   }
 }

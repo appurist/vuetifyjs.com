@@ -10,6 +10,6 @@
     }
   }],
   "options": {
-    'modifiers.quiet': '`v-resize.quiet="callback"` Will **not** automatically invoke the provided callback on bind.'
+    "modifiers.quiet": '`v-resize.quiet="callback"` Will **not** automatically invoke the provided callback on bind.'
   }
 }

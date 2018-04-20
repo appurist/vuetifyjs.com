@@ -22,6 +22,6 @@
     "fixed": "Mixins.Positionable.props.fixed"
   },
   "events": {
-    'update:active': 'The event used for `active.sync`'
+    "update:active": 'The event used for `active.sync`'
   }
 }

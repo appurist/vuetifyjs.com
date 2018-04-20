@@ -84,7 +84,7 @@
   },
   "events": {
     "change": "Mixins.Input.events.change",
-    'update:error': 'Mixins.Input.events.update:error',
-    'update:searchInput': '`search-input.sync` событие'
+    "update:error": 'Mixins.Input.events.update:error',
+    "update:searchInput": '`search-input.sync` событие'
   }
 }

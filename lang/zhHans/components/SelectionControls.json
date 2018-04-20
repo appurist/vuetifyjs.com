@@ -5,19 +5,19 @@
   "examples": [{
     "example": {
       "header": "默认示例",
-      "desc": ''
+      "desc": ""
     },
     "checkboxesBoolean": {
       "header": "复选框 - 布尔值",
-      "desc": ''
+      "desc": ""
     },
     "checkboxesArray": {
       "header": "复选框 - 数组",
-      "desc": ''
+      "desc": ""
     },
     "checkboxesStates": {
       "header": "复选框 - 状态",
-      "desc": ''
+      "desc": ""
     },
     "checkboxesColors": {
       "header": "复选框 - 色彩",
@@ -25,7 +25,7 @@
     },
     "checkboxesInlineTexfield": {
       "header": "复选框 - 和文本框内联",
-      "desc": ''
+      "desc": ""
     },
     "radiosDefault": {
       "header": "单选框 - 默认",
@@ -41,15 +41,15 @@
     },
     "switchesBoolean": {
       "header": "开关 - 布尔值",
-      "desc": ''
+      "desc": ""
     },
     "switchesArray": {
       "header": "开关 - 数组",
-      "desc": ''
+      "desc": ""
     },
     "switchesStates": {
       "header": "开关 - 状态",
-      "desc": ''
+      "desc": ""
     },
     "switchesColors": {
       "header": "开关 - 颜色",

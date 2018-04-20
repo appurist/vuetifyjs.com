@@ -7,7 +7,7 @@
   "examples": [{
     "usage": {
       "header": "사용법 (Usage)",
-      "desc": ''
+      "desc": ""
     },
     "color": {
       "header": "커스텀 색상 (Custom color)",

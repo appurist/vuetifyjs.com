@@ -1,15 +1,15 @@
 {
-  '': {
-    "h1": '',
+  "": {
+    "h1": "",
     "title": "Vue.js Material Component Framework",
     "description": "Vuetify.js is a reusable semantic component framework for Vue.js. It aims to provide clean, semantic and reusable components.",
     "keywords": "vue, vue 2, vue js, vue.js, material design, vue components, material design components, vuetify, vuetify.js"
   },
   "*": {
-    "h1": '',
+    "h1": "",
     "title": "404",
-    "description": '',
-    "keywords": ''
+    "description": "",
+    "keywords": ""
   },
   "getting-started/quick-start": {
     "h1": "Quick Start",
@@ -480,21 +480,21 @@
     "keywords": "vuetify store, vuetify shop, vuetify merch, vuetify themes"
   },
   "store/cart": {
-    "h1": '',
+    "h1": "",
     "title": "Your Cart",
     "description": "Vuetify cart checkout",
     "keywords": "vuetify store, vuetify shop, vuetify merch, vuetify themes"
   },
   "store/thank-you": {
-    "h1": '',
+    "h1": "",
     "title": "Thank you for supporting Vuetify",
     "description": "Thank you for supporting open source and Vuetify",
     "keywords": "thank you from vuetify"
   },
   "store/licensing": {
-    "h1": '',
+    "h1": "",
     "title": "Product licensing",
-    "description": '',
-    "keywords": ''
+    "description": "",
+    "keywords": ""
   }
 }

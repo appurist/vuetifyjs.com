@@ -5,19 +5,19 @@
   "examples": [{
     "example": {
       "header": "Примеры по умолчанию",
-      "desc": ''
+      "desc": ""
     },
     "checkboxesBoolean": {
       "header": "Checkboxes - Boolean",
-      "desc": ''
+      "desc": ""
     },
     "checkboxesArray": {
       "header": "Checkboxes - Массив",
-      "desc": ''
+      "desc": ""
     },
     "checkboxesStates": {
       "header": "Checkboxes - Состояние",
-      "desc": ''
+      "desc": ""
     },
     "checkboxesColors": {
       "header": "Checkboxes - Цвета",
@@ -25,7 +25,7 @@
     },
     "checkboxesInlineTexfield": {
       "header": "Checkboxes - в одну линию с текстовым полем",
-      "desc": ''
+      "desc": ""
     },
     "radiosDefault": {
       "header": "Radio - по умолчанию",
@@ -41,15 +41,15 @@
     },
     "switchesBoolean": {
       "header": "Switches - Boolean",
-      "desc": ''
+      "desc": ""
     },
     "switchesArray": {
       "header": "Switches - Массив",
-      "desc": ''
+      "desc": ""
     },
     "switchesStates": {
       "header": "Switches - Состояние",
-      "desc": ''
+      "desc": ""
     },
     "switchesColors": {
       "header": "Switches - Цвета",

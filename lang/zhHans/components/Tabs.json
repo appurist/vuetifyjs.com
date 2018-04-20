@@ -11,7 +11,7 @@
   "examples": [{
     "toolbar": {
       "header": "工具栏选项卡",
-      "desc": ''
+      "desc": ""
     },
     "fixedTabs": {
       "header": "固定选项卡",
@@ -35,7 +35,7 @@
     },
     "desktop": {
       "header": "桌面选项卡",
-      "desc": ''
+      "desc": ""
     },
     "alignWithTitle": {
       "header": "与工具栏标题对齐选项卡",

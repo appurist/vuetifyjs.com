@@ -28,7 +28,7 @@
     "step": "If greater than 0, sets step interval for ticks",
     "thumbColor": "Sets the thumb and thumb label color",
     "thumbLabel": "Show thumb label",
-    "ticks": '',
+    "ticks": "",
     "trackColor": "Sets the track fill color"
   }
 }

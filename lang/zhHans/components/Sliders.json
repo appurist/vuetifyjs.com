@@ -33,7 +33,7 @@
     "step": "如果大于0，则为滑块上的点设置步骤间隔",
     "thumbColor": "设置拇指和拇指标签颜色",
     "thumbLabel": "显示拇指标签",
-    "ticks": '',
+    "ticks": "",
     "trackColor": "设置曲目填充色彩"
   }
 }

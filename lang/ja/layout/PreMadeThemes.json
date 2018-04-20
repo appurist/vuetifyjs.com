@@ -12,7 +12,7 @@
       "tag": "Premium",
       "description": "Complete theme experience including enhanced vue-cli, full documentation, 5 custom components and much more!",
       "price": "25$",
-      "demoUrl": ''
+      "demoUrl": ""
     },
     {
       "screenshot": "/static/doc-images/starter/vuetify-parallax-starter.png",

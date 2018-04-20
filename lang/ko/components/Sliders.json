@@ -28,7 +28,7 @@
     "step": "0 보다 크면 스텝 간격으로 쓰임",
     "thumbColor": "Thumb과 thumb 레이블 색상",
     "thumbLabel": "thumb 레이블을 표시",
-    "ticks": '',
+    "ticks": "",
     "trackColor": "Sets the track fill color"
   }
 }

@@ -11,7 +11,7 @@
   "examples": [{
     "toolbar": {
       "header": "Toolbar tabs",
-      "desc": ''
+      "desc": ""
     },
     "fixedTabs": {
       "header": "Fixed tabs",
@@ -35,7 +35,7 @@
     },
     "desktop": {
       "header": "Desktop tabs",
-      "desc": ''
+      "desc": ""
     },
     "alignWithTitle": {
       "header": "Align tabs with toolbar title",

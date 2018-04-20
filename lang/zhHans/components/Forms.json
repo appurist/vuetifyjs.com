@@ -17,7 +17,7 @@
     },
     "veeValidate": {
       "header": "Vee-validate",
-      "desc": "Vee-validate是另一个验证插件，允许您检查您的表单。一个警告是，当您使用**value**属性时必须添加**type=\"checkbox"**来正确验证一个`v-checkbox`。\"
+      "desc": "Vee-validate是另一个验证插件，允许您检查您的表单。一个警告是，当您使用**value**属性时必须添加**type=\"checkbox\"**来正确验证一个`v-checkbox`。"
     }
   }],
   "props": {

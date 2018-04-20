@@ -30,7 +30,7 @@
       {
         "name": "debounce",
         "type": "Object",
-        "default": "{ "_passive_": **true** }",
+        "default": "{ \"_passive_\": **true** }",
         "desc": "The options to be passed to the event listener of the binding target"
       }
     ]

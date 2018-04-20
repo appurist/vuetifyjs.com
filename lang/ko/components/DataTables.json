@@ -40,7 +40,7 @@
       "desc": "선택 가능한 열은 특정 행이나 전체 행에 대한 액션을 실행할 수 있도록 해줍니다. (Selectable rows allow you to perform an action on specific and all rows.)"
     },
     "search": {
-      "header": "검색과 "검색결과 없음"(no-results) 슬롯",
+      "header": "검색과 \"검색결과 없음\" (no-results) 슬롯",
       "desc": "`search` prop으로 데이터를 필터링 할 수 있습니다."
     },
     "customIcons": {

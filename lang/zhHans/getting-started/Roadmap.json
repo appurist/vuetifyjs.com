@@ -1,5 +1,5 @@
 {
-  "header": `即将到来`,
+  "header": "即将到来",
   "headerText": "Vuetify始终在开发中。我们一直致力于改进现有的代码库，并且增加新的特性和功能，使得构建应用程序更加轻松。以下是计划功能的暂定清单，这不是一个详尽的清单，可能随时会更改，恕不另行通知。",
   "roadmap": [
     {
@@ -12,7 +12,7 @@
       "icon": "brush",
       "name": "Alpha主题",
       "date": "Q1 2018",
-      "desc": `Vuetify的第一个主题。一个以Vuetify为核心的手工Material Design主题，涵盖自定义组件和特性。`
+      "desc": "Vuetify的第一个主题。一个以Vuetify为核心的手工Material Design主题，涵盖自定义组件和特性。"
     },
     {
       "icon": "error",

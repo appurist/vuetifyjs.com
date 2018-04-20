@@ -5,7 +5,7 @@
   "examples": [{
     "buttons": {
       "header": "Default",
-      "desc": "按钮默认启用了波纹，但是也可以通过设置属性`:ripple=\"false`来移除。\",
+      "desc": "按钮默认启用了波纹，但是也可以通过设置属性`:ripple=\"false\"`来移除。",
       "uninverted": true
     },
     "customColor": {

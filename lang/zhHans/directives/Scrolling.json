@@ -30,7 +30,7 @@
       {
         "name": "debounce",
         "type": "Object",
-        "default": "{ "_passive_": **true** }",
+        "default": "{ \"_passive_\": **true** }",
         "desc": "要传递给绑定了目标的事件监听器的选项"
       }
     ]

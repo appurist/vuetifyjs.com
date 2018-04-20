@@ -5,7 +5,7 @@
   "examples": [{
     "grid": {
       "header": "用例",
-      "desc": "`v-container`可以用于中心聚焦的页面，或者用`fluid`来扩展它的全部宽度。`v-layout`用于分隔各部分，并包含`v-flex`。您的布局结构如下，**v-container** &raquo; **v-layout** &raquo; **v-flex**。栅格链的每个部分都是一个弹性框元素，最后，`v-flex`会自动设置它的子元素获得<kbd>"flex": 1 1 auto</kbd>。",
+      "desc": "`v-container`可以用于中心聚焦的页面，或者用`fluid`来扩展它的全部宽度。`v-layout`用于分隔各部分，并包含`v-flex`。您的布局结构如下，**v-container** &raquo; **v-layout** &raquo; **v-flex**。栅格链的每个部分都是一个弹性框元素，最后，`v-flex`会自动设置它的子元素获得<kbd>flex: 1 1 auto</kbd>。",
       "uninverted": true
     },
     "offset": {

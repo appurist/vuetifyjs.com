@@ -12,7 +12,7 @@
   "customizingText5": "또한 이 값들은 **$vuetify** 인스턴스의 **theme** 속성아래 오브젝트로 설정할 수 있습니다. 이는 테마를 _동적으로_ 바꾸는 것을 가능하게 합니다. 내부적으로는 Vuetifys는 테마 클래스들을 재생성하고 어플리케이션이 중단 없이 업데이트 되도록 클래스를 업데이트 합니다.",
   "optionHeader": "옵션 (Options)",
   "optionText1": "Vuetify generates theme styles at run-time for SPA's and server side for SSR applications. The generated styles will be placed in a `<style>` tag with the **id** of **vuetify-theme-stylesheet**.",
-  "optionText2": "By default, **primary**, **secondary** and **accent** will have darken and lighten classes created. This allows you to follow the same syntax as working with regular colors, i.e. `class="primary darken-1"`. This can be changed during the plugin bootstrap:",
+  "optionText2": "By default, **primary**, **secondary** and **accent** will have darken and lighten classes created. This allows you to follow the same syntax as working with regular colors, i.e. `class=\"primary darken-1\"`. This can be changed during the plugin bootstrap:",
   "optionHeader2": "Minification",
   "optionText3": "For SSR applications, you can pass a callback function to **$vuetify.options.minifyTheme** to reduce the initial page size. When using this option, it is recommended to also use **themeCache**.",
   "optionHeader3": "Caching",

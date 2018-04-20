@@ -1,11 +1,11 @@
 {
-  "header": 'Touch Support',
-  "headerText": 'The <code>v-touch</code> directive allows you to capture swipe gestures and apply directional callbacks.',
+  "header": "Touch Support",
+  "headerText": "The <code>v-touch</code> directive allows you to capture swipe gestures and apply directional callbacks.",
   "components": ['v-touch'],
   "examples": [{
     "default": {
-      "header": 'Default',
-      "desc": 'On a mobile device, try swiping in various directions.',
+      "header": "Default",
+      "desc": "On a mobile device, try swiping in various directions.",
       "uninverted": true
     }
   }],

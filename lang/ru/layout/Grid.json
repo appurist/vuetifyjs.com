@@ -84,7 +84,7 @@
     "alignContentStart": "Совместите содержимое с началом.",
     "alignEnd": "Выровняйте элементы до конца.",
     "alignStart": "Выровняйте элементы до начала.",
-    "d-{type}': 'Укажите, чтобы отобразить элемент как flex/inline-flex/block и т. Д. Синтаксис - `d- {type}`. Например, `d-flex`.",
+    "d-{type}": "Укажите, чтобы отобразить элемент как flex/inline-flex/block и т. Д. Синтаксис - `d- {type}`. Например, `d-flex`.",
     "fillHeight": "Убедитесь, что высота элемента col заполняется родительским и дочерним. Важно для Safari / Firefox, если дети являются элементом столбца.",
     "justifyCenter": "Выравнять контент по центру.",
     "justifyEnd": "Выравнять контент в конец",
@@ -94,13 +94,13 @@
     "reverse": "Отменяет текущее выбранное направление (column, row).",
     "wrap": "Позволяет детям обертываться внутри контейнера, если элементы используют более 100%.",
     "v-container": {
-      "grid-list-{xs through xl}': 'Устанавливает gutter между элементами списка сетки в диапазоне от 2 до 24 пикселей",
+      "grid-list-{xs through xl}": "Устанавливает gutter между элементами списка сетки в диапазоне от 2 до 24 пикселей",
       "fluid": "Удаляет контрольные точки размера viewport"
     },
     "v-flex": {
-      "offset-(size)(1-12)': 'offset-"xs": extra small, offset-"sm": small, offset-"md": medium, offset-"lg": large, offset-"xl": extra large. "Example": offset-xs3",
-      "order-(size)(1-12)': 'order-"xs": extra small, order-"sm": small, order-"md": medium, order-"lg": large, order-"xl": extra large. "Example": order-xs3",
-      "(size)(1-12)': '"xs": extra small, "sm": small, "md": medium, "lg": large, "xl": extra large - 1 through 12"
+      "offset-(size)(1-12)": "offset-xs: extra small, offset-sm: small, offset-md: medium, offset-lg: large, offset-xl: extra large. Example: offset-xs3",
+      "order-(size)(1-12)": "order-xs: extra small, order-sm: small, order-md: medium, order-lg: large, order-xl: extra large. Example: order-xs3",
+      "(size)(1-12)": "xs: extra small, sm: small, md: medium, lg: large, xl: extra large - 1 through 12"
     },
     "v-layout": {
       "row": "Устанавливает направление смещения в ряд",

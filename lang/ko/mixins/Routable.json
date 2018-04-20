@@ -1,9 +1,9 @@
 {
   "props": {
-    "activeClass": "컴포넌트가 활성화(active)되었을때 적용되는 클래스 **경고** 컴포넌트에 따라 사이드 이펙트가 있을 수 있습니다. 커스텀 클래스를 추가하는 방법은 다음 과 같음 `active-class="default-class your-class"` ",
+    "activeClass": "컴포넌트가 활성화(active)되었을때 적용되는 클래스 **경고** 컴포넌트에 따라 사이드 이펙트가 있을 수 있습니다. 커스텀 클래스를 추가하는 방법은 다음 과 같음 `active-class=\"default-class your-class\"",
     "append": "Vue 라우터의 router-link prop",
     "disabled": "라우트 아이템이 비활성화됨(disabled)",
-    "exact": "링크를 정확히 매치. 설정되지 않으면 "/"는 모든 라우트와 매치됨",
+    "exact": "링크를 정확히 매치. 설정되지 않으면 '/'는 모든 라우트와 매치됨",
     "exactActiveClass": "Vue 라우터의 router-link prop",
     "href": "컴포넌트의 태그가 `<a>`가 됩니다..",
     "nuxt": "링크를 nuxt-link로 지정",

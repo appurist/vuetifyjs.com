@@ -31,7 +31,7 @@
   "examples": [{
     "grid": {
       "header": "사용법",
-      "desc": "`v-container` 중앙 집중형 페이지(center focused page)에 사용될 수 있습니다. 또는 `fluid` prop으로 전체 너비로 확장할 수 있습니다. \n`v-layout`은 섹션을 분리하기 위해 사용하며 `v-flex`를 포함합니다. 레이아웃의 구조는 다음과 같습니다. \n**v-container** &raquo; **v-layout** &raquo; **v-flex**. \n그리드 체인의 각 부분은 flex-box 요소입니다. 마지막의 `v-flex`는 자동으로 자식 요소들을 <kbd>"flex": 1 1 auto</kbd>로 설정합니다.",
+      "desc": "`v-container` 중앙 집중형 페이지(center focused page)에 사용될 수 있습니다. 또는 `fluid` prop으로 전체 너비로 확장할 수 있습니다. \n`v-layout`은 섹션을 분리하기 위해 사용하며 `v-flex`를 포함합니다. 레이아웃의 구조는 다음과 같습니다. \n**v-container** &raquo; **v-layout** &raquo; **v-flex**. \n그리드 체인의 각 부분은 flex-box 요소입니다. 마지막의 `v-flex`는 자동으로 자식 요소들을 <kbd>flex: 1 1 auto</kbd>로 설정합니다.",
       "uninverted": true
     },
     "offset": {
@@ -51,7 +51,7 @@
     },
     "rowColumnBreakpoint": {
       "header": "행과 열 중단점 (Row and column breakpoints)",
-      "desc": "해상도에 따라 동적으로 레이아웃을 변경하세요. **(화면 크기를 바꾸면서 작은 중단 점에서 레이아웃이 "하나의 `행"으로 바뀌는 것을 관찰해보세요)**",
+      "desc": "해상도에 따라 동적으로 레이아웃을 변경하세요. **(화면 크기를 바꾸면서 작은 중단 점에서 레이아웃이 \"하나의 `행\"으로 바뀌는 것을 관찰해보세요)**",
       "uninverted": true
     },
     "nestedGrid": {
@@ -84,7 +84,7 @@
     "alignContentStart": "컨텐츠를 앞 쪽으로 정렬",
     "alignEnd": "항목들을 끝 쪽으로 정렬",
     "alignStart": "항목들을 앞쪽으로 정렬",
-    "d-{type}': 'display 항목을 flex/inline-flex/block 등으로 설정. 형식)`d-{타입}`. 예)`d-flex`.",
+    "d-{type}": "display 항목을 flex/inline-flex/block 등으로 설정. 형식)`d-{타입}`. 예)`d-flex`.",
     "fillHeight": "Make sure that col element height is filled with parent and child. 자식이 column 요소일 경우, 사파리/파이어폭스 에서 중요함",
     "justifyCenter": "Justify content to the center.",
     "justifyEnd": "Justify content to the end.",
@@ -94,13 +94,13 @@
     "reverse": "Reverses the currently selected direction (column, row).",
     "wrap": "Allows children to wrap within the container if the elements use more than 100%.",
     "v-container": {
-      "grid-list-{xs through xl}': 'Sets the gutter between grid list items ranging from 2px to 24px",
+      "grid-list-{xs through xl}": "Sets the gutter between grid list items ranging from 2px to 24px",
       "fluid": "Removes viewport size breakpoints"
     },
     "v-flex": {
-      "offset-(size)(1-12)': 'offset-"xs": extra small, offset-"sm": small, offset-"md": medium, offset-"lg": large, offset-"xl": extra large. "Example": offset-xs3",
-      "order-(size)(1-12)': 'order-"xs": extra small, order-"sm": small, order-"md": medium, order-"lg": large, order-"xl": extra large. "Example": order-xs3",
-      "(size)(1-12)': '"xs": extra small, "sm": small, "md": medium, "lg": large, "xl": extra large - 1 through 12"
+      "offset-(size)(1-12)": "offset-xs: extra small, offset-sm: small, offset-md: medium, offset-lg: large, offset-xl: extra large. Example: offset-xs3",
+      "order-(size)(1-12)": "order-xs: extra small, order-sm: small, order-md: medium, order-lg: large, order-xl: extra large. Example: order-xs3",
+      "(size)(1-12)": "xs: extra small, sm: small, md: medium, lg: large, xl: extra large - 1 through 12"
     },
     "v-layout": {
       "row": "Sets flex direction to row",

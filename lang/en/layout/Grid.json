@@ -31,7 +31,7 @@
   "examples": [{
     "grid": {
       "header": "Usage",
-      "desc": "The `v-container` can be used for a center focused page, or given the `fluid` prop to extend its full width. `v-layout` is used for separating sections and contains the `v-flex`. The structure of your layout will be as follows, **v-container** &raquo; **v-layout** &raquo; **v-flex**. Each part of the grid chain is a flex-box element. The final, `v-flex`, automatically sets its children to have <kbd>"flex": 1 1 auto</kbd>.",
+      "desc": "The `v-container` can be used for a center focused page, or given the `fluid` prop to extend its full width. `v-layout` is used for separating sections and contains the `v-flex`. The structure of your layout will be as follows, **v-container** &raquo; **v-layout** &raquo; **v-flex**. Each part of the grid chain is a flex-box element. The final, `v-flex`, automatically sets its children to have <kbd>flex: 1 1 auto</kbd>.",
       "uninverted": true
     },
     "offset": {
@@ -84,7 +84,7 @@
     "alignContentStart": "Align content to the start.",
     "alignEnd": "Align items to the end.",
     "alignStart": "Align items to the start.",
-    "d-{type}': 'Specify to display an element as flex/inline-flex/block etc. Syntax is `d-{type}`. For example `d-flex`.",
+    "d-{type}": "Specify to display an element as flex/inline-flex/block etc. Syntax is `d-{type}`. For example `d-flex`.",
     "fillHeight": "Make sure that col element height is filled with parent and child. Important for Safari/Firefox if children is column element.",
     "justifyCenter": "Justify content to the center.",
     "justifyEnd": "Justify content to the end.",
@@ -94,13 +94,13 @@
     "reverse": "Reverses the currently selected direction (column, row).",
     "wrap": "Allows children to wrap within the container if the elements use more than 100%.",
     "v-container": {
-      "grid-list-{xs through xl}': 'Sets the gutter between grid list items ranging from 2px to 24px",
+      "grid-list-{xs through xl}": "Sets the gutter between grid list items ranging from 2px to 24px",
       "fluid": "Removes viewport size breakpoints"
     },
     "v-flex": {
-      "offset-(size)(1-12)': 'offset-"xs": extra small, offset-"sm": small, offset-"md": medium, offset-"lg": large, offset-"xl": extra large. "Example": offset-xs3",
-      "order-(size)(1-12)': 'order-"xs": extra small, order-"sm": small, order-"md": medium, order-"lg": large, order-"xl": extra large. "Example": order-xs3",
-      "(size)(1-12)': '"xs": extra small, "sm": small, "md": medium, "lg": large, "xl": extra large - 1 through 12"
+      "offset-(size)(1-12)": "offset-xs: extra small, offset-sm: small, offset-md: medium, offset-lg: large, offset-xl: extra large. Example: offset-xs3",
+      "order-(size)(1-12)": "order-xs: extra small, order-sm: small, order-md: medium, order-lg: large, order-xl: extra large. Example: order-xs3",
+      "(size)(1-12)": "xs: extra small, sm: small, md: medium, lg: large, xl: extra large - 1 through 12"
     },
     "v-layout": {
       "row": "Sets flex direction to row",

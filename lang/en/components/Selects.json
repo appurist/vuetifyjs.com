@@ -75,7 +75,7 @@
   },
   "slots": {
     "item": "Scoped slot for designating the markup for a list-tile",
-    "no-data': 'Mixins.Filterable.slots.noData",
+    "no-data": "Mixins.Filterable.slots.noData",
     "selection": "Scoped slot for designating the markup for the selected items"
   },
   "scopedSlots": {

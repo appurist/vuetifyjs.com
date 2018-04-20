@@ -75,7 +75,7 @@
   },
   "slots": {
     "item": "Область видимости для обозначения разметки для list-tile",
-    "no-data': 'Mixins.Filterable.slots.noData",
+    "no-data": "Mixins.Filterable.slots.noData",
     "selection": "Область видимости для обозначения разметки для выбранных элементов"
   },
   "scopedSlots": {

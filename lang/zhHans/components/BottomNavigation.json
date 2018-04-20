@@ -1,4 +1,4 @@
-export default {
+{
   header: '底部导航',
   headerText: '`v-bottom-nav`组件是一个侧边栏的替代方案。它主要用于移动端，并有两个变种，图标+文本和转变。',
   components: ['v-bottom-nav'],

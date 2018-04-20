@@ -1,4 +1,4 @@
-export default {
+{
   header: '滑块',
   headerText: '`v-slider`组件是数字输入的更好的可视化，它用于收集数字用户数据。',
   components: ['v-slider'],

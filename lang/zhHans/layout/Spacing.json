@@ -1,4 +1,4 @@
-export default {
+{
   header: '间距',
   headerText: '更新您的布局而无需创建新的类，间距辅助器对于修改元素的填充（padding）和边距（margin）都非常有用。',
   toc: [

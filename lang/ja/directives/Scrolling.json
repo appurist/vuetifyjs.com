@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Scrolling directive',
   headerText: 'The `v-scroll` directive allows you to provide callbacks when the window or a specifically defined element are scrolled.',
   components: ['v-scroll'],

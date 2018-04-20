@@ -1,4 +1,4 @@
-export default {
+{
   backToDocs: 'Back to Docs',
   cart: 'Cart',
   docs: 'Docs',

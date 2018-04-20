@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     activeClass: `当组件处于激活状态时被绑定的类，**警告（warning）**取决于组件，这可能会导致副作用。如果您需要在默认情况下添加自定义类，只需设置<code>active-class="default-class your-class"</code>`,
     append: `Vue Router的router-link属性`,

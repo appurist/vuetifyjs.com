@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Цвета',
   headerText: 'Из коробки вы получаете доступ ко всем цветам в [Material Design спецификации](https://material.io/guidelines/style/color.html) через **stylus** и **javascript**. Эти значения могут использоваться в ваших таблицах стилей, ваших файлах компонентов и фактических компонентах через систему **color class**.',
   classesHeader: 'Классы',

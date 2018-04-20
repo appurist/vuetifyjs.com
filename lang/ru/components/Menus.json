@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Menu',
   headerText: 'Компонент `v-menu` показывает меню в позиции элемента, используемого для его активации.',
   components: ['v-menu'],

@@ -1,4 +1,4 @@
-export default {
+{
   header: '레이아웃 (Layouts)',
   headerText: `레이아웃 시스템은 모든 어플리케이션의 심장입니다. 아래에 데스크탑 부터 모바일 어플리케이션까지 공식적으로 지원되는 예제들이 있습니다.`,
   markupHeader: '기본 어플리케이션 마크업 (Default application markup)',

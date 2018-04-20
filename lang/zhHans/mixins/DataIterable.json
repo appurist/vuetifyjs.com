@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     customFilter: '自定义搜索过滤器',
     customSort: '自定义排序过滤器',

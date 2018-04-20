@@ -1,4 +1,4 @@
-export default {
+{
   indexHeader: 'ストアにようこそ！',
   indexSubheader: 'あなたの開発を加速しましょう',
   cartHeader: 'カート内の商品',

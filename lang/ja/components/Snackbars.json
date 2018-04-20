@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Snackbar',
   headerText: 'The `v-snackbar` component is used to display a quick message to a user. Snackbars support positioning, removal delay and callbacks.',
   components: ['v-snackbar'],

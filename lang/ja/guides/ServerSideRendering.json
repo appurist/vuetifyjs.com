@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Overview',
   headerText: 'This overview is designed to help you become fluent in **Vuetify\'s** Vue SSR Template. If you have not already installed the <code>webpack-ssr</code> template, please do so <router-link to="/vuetify/quick-start">in the Quick start</router-link>.',
   structureHeader: 'Structure',

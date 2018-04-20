@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     solo: 'Changes the style of the input',
     soloInverted: 'Reduces element opacity until focused',

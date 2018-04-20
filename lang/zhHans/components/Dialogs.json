@@ -1,4 +1,4 @@
-export default {
+{
   header: '对话框',
   headerText: '`v-dialog` 组件用来通知用户有关特定任务的信息，并且可能包含重要信息，需要作出决定或者涉及多任务；应谨慎使用对话框，因为它是中断的。',
   components: ['v-dialog'],

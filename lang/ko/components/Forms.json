@@ -1,4 +1,4 @@
-export default {
+{
   header: '폼 (Form)',
   headerText: 'Vuetify 는 폼 유효성 검사(validation)과 관련하여 다양한 통합기능을 가지고 있고 기능면에서 숙성되어 있습니다. 서드파티(3rd party) 플러긴을 사용하고 싶습니까? Out of the box you can use [Vee-validate](https://github.com/baianat/Vee-validate) and [vuelidate](https://github.com/monterail/vuelidate).',
   components: ['v-form'],

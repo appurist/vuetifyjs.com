@@ -1,4 +1,4 @@
-export default {
+{
   header: '数据表格',
   headerText: '`v-data-table` 用于显示表格数据，功能包括排序、搜索、分页、行内编辑、头部提示以及行选择。',
   components: ['v-data-table', 'v-edit-dialog'],

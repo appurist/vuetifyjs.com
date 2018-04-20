@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Resize 디렉티브(directive)',
   headerText: '`v-resize` 디렉티브는 윈도우의 크기를 변경할 때 특정 함수를 호출하기 위해 사용됩니다.',
   components: ['v-resize'],

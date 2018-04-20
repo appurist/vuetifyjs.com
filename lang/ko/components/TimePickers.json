@@ -1,4 +1,4 @@
-export default {
+{
   header: '타임 피커 (Time picker)',
   headerText: '`v-time-picker`는 다른 Vuetify 컴포넌트들에 사용될 수 있는 독자적(stand-alone) 컴포넌트 입니다. 타임 피커는 시간을 선택할 수 있는 시각적 표현을 제공합니다.',
   components: ['v-time-picker'],

@@ -1,4 +1,4 @@
-export default {
+{
   api: 'API',
   default: 'Default',
   description: 'Description',

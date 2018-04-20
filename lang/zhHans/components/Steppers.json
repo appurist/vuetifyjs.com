@@ -1,4 +1,4 @@
-export default {
+{
   header: '步骤线',
   headerText: '`v-stepper` 组件用于显示步骤进度。',
   components: [

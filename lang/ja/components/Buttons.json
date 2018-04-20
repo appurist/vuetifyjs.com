@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Button',
   headerText: '`v-btn` コンポーネントは基本的な HTML におけるボタンをマテリアルデザインで置き換え、多数のオプションを提供します。 様々なカラーヘルパークラスを利用して、背景やテキストの色を変更することができます。',
   components: ['v-btn'],

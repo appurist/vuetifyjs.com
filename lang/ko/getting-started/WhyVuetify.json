@@ -1,4 +1,4 @@
-export default {
+{
   header: '무엇이 다를까?',
   headerText: '',
   toc: [

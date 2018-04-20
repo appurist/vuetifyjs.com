@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     actions: 'Use this when using actions inside the picker',
     autosave: 'Automatically save the selected value. This updates the internal previous value so if cancel is clicked, it will not revert the user changes',

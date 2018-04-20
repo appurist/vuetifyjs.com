@@ -1,4 +1,4 @@
-export default {
+{
   indexHeader: 'Добро пожаловать в наш новый магазин!',
   indexSubheader: 'Повысьте свою эффективность',
   cartHeader: 'Ваша корзина',

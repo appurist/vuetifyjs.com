@@ -1,4 +1,4 @@
-export default {
+{
   header: '데이터 테이블 (Data table)',
   headerText: '`v-data-table` 컴포넌트는 데이터를 테이블 형태로 보여줍니다. 정렬(sorting), 검색(searching), 페이지네이션(pagination), 선택(selection) 등이 가능합니다.',
   components: ['v-data-table', 'v-edit-dialog'],

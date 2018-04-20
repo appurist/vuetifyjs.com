@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Carousel',
   headerText: 'The `v-carousel` component is used to display large numbers of visual content on a rotating timer.',
   components: ['v-carousel', 'v-carousel-item'],

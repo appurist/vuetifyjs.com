@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     solo: '인풋의 스타일을 바꿈',
     soloInverted: '포커스 되지 않은 요소의 불투명도를 낮춤',

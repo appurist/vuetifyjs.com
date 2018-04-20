@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Обзор',
   headerText: 'Этот обзор призван помочь вам свободно владеть шаблоном **Vuetify** Vue SSR. Если вы еще не установили шаблон `webpack-ssr`, сделайте это [в Быстрый старт](/vuetify/quick-start).',
   structureHeader: 'Structure',

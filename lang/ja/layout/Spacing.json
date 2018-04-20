@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Spacing',
   headerText: 'Update your layout without creating new classes. Spacing helpers are useful for modifying the padding and margin of an element.',
   toc: [

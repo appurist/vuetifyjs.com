@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Snackbar',
   headerText: 'Компонент `v-snackbar` используется для отображения быстрого сообщения пользователю. Snackbars поддерживают позиционирование, задержку и обратные вызовы.',
   components: ['v-snackbar'],

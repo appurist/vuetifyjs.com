@@ -1,4 +1,4 @@
-export default {
+{
   header: '툴팁 (Tooltip)',
   headerText: '`v-tooltip` 컴포넌트는 사용자가 마우스 포인터를 요소 위에 올렸을 때 (hover) 정보를 전달하는데 유용합니다. 또한 **v-model** 을 이용하여 툴팁의 표시를 프로그램적으로 제어할 수 있습니다.',
   components: ['v-tooltip'],

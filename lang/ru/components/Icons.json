@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Иконка',
   headerText: 'Компонент `v-icon` предоставляет большой набор иконок для предоставления контекста различным аспектам вашего приложения. Иконки Vuetify используют библиотеку шрифтов Material Icons Google. Список всех доступных иконок можно найти на официальной странице [Material Icons](https://material.io/icons/).',
   components: ['v-icon'],

@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     customFilter: 'Custom search filter',
     customSort: 'Custom sort filter',

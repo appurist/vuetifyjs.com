@@ -1,4 +1,4 @@
-export default {
+{
   close: '닫기',
   init: 'Init command copied',
   quickstart: {

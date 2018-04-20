@@ -1,4 +1,4 @@
-export default {
+{
   header: '菜单',
   headerText: '`v-menu`组件展示一个菜单在用于激活它的元素的位置上。',
   components: ['v-menu'],

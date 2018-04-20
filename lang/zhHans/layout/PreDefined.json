@@ -1,4 +1,4 @@
-export default {
+{
   header: '布局',
   headerText: `布局系统往往是每一个应用程序的心脏。以下是官方支持的示例，涵盖了从桌面到移动端的应用程序。`,
   markupHeader: '默认应用程序标记',

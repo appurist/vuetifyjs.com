@@ -1,4 +1,4 @@
-export default {
+{
   header: '副标题',
   headerText: '`v-subheader`组件由于分隔列表的各部分。',
   components: ['v-subheader'],

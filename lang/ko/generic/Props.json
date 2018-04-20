@@ -1,4 +1,4 @@
-export default {
+{
   app: '컴포넌트를 어플리케이션 레이아웃의 일부로 지정. 컨덴츠의 크기를 동적으로 맞추는데 사용됨.',
   auto: 'Centers list on selected element',
   centered: '탭을 중앙 정렬',

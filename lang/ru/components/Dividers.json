@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Разделитель',
   headerText: 'Компонент `v-divider` используется для разделения групп списков.',
   components: ['v-divider'],

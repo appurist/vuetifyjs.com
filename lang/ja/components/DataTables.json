@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Data table',
   headerText: '`v-data-table` コンポーネントは表形式のデータを表示するために使われます。ソート、検索、ページネーション、インライン編集、ヘッダーツールチップ、行の選択 などの機能を含んでいます。',
   components: ['v-data-table', 'v-edit-dialog'],

@@ -1,4 +1,4 @@
-export default {
+{
   header: '小吃吧',
   headerText: '`v-snackbar`组件用于向用户显示快速消息，小吃吧支持定位、删除延迟和回调。',
   components: ['v-snackbar'],

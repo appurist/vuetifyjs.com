@@ -1,4 +1,4 @@
-export default {
+{
   header: '단계 (Stepper)',
   headerText: '`v-stepper` 컴포넌트는 숫자가 매겨진 단계를 가진 진행상태를 표시합니다.',
   components: [

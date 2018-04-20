@@ -1,4 +1,4 @@
-export default {
+{
   backToDocs: '문서로 돌아가기',
   cart: '장바구니',
   docs: '문서',

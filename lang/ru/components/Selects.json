@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Select',
   headerText: 'Поля компонента _Select_ используются для сбора предоставленной пользователем информации из списка параметров.',
   components: ['v-select'],

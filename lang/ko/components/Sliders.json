@@ -1,4 +1,4 @@
-export default {
+{
   header: '슬라이더 (Slider)',
   headerText: '`v-slider` 컴포넌트는 숫자 입력을 위한 더 나은 시각화를 제공합니다. 사용의 숫자형 데이터를 수집하기 위해 사용도비니다.',
   components: ['v-slider'],

@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Divider',
   headerText: 'The `v-divider` component is used to separate sections of lists.',
   components: ['v-divider'],

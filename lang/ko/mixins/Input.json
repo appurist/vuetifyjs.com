@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     appendIcon: '컴포넌트 뒤에 아이콘을 덧붙임. `v-icon`과 같은 문법을 사용',
     appendIconCb: '덧붙여진 아이콘이 클릭됐을때 호출되는 콜백',

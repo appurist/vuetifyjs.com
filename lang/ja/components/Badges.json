@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Badge',
   headerText: '`v-badge` コンポーネントは、あらゆる種類のコンテンツをラップして、ユーザに情報をハイライトしたり、指定の要素に対して注意を引いたりすることができます。',
   components: ['v-badge'],

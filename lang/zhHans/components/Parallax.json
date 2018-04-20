@@ -1,4 +1,4 @@
-export default {
+{
   header: '视差',
   headerText: '`v-parallax`组件创建一个3d效果使图像显示俾窗口滚动更慢。',
   components: ['v-parallax'],

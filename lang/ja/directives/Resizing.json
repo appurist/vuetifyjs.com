@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Resize directive',
   headerText: 'The `v-resize` directive can be used for calling specific functions when the window resizes.',
   components: ['v-resize'],

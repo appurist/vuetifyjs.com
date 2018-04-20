@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Colors',
   headerText: 'Out of the box you get access to all colors in the [Material Design spec](https://material.io/guidelines/style/color.html) through **stylus** and **javascript**. These values can be used within your style sheets, your component files and on actual components via the **color class** system.',
   classesHeader: 'Classes',

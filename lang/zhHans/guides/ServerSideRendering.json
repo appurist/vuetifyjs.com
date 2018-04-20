@@ -1,4 +1,4 @@
-export default {
+{
   header: '概述',
   headerText: '本概览旨在帮助您流利使用**Vuetify的**Vue SSR模版。如果您尚未安装`webpack-ssr`模版，请在[在快速入门中](/vuetify/quick-start)安装。',
   structureHeader: '构造',

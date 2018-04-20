@@ -1,4 +1,4 @@
-export default {
+{
   askCommunity: '커뮤니티에 질문하기',
   contactUs: 'Contact Us',
   needHelp: '도움이 필요하세요?',

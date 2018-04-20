@@ -1,4 +1,4 @@
-export default {
+{
   header: '徽章',
   headerText: '`v-badge`组件可以包装任何类型的内容以突出显示用户的信息，或只提醒注意特定的元素。',
   components: ['v-badge'],

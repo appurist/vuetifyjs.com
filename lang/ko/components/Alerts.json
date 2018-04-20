@@ -1,4 +1,4 @@
-export default {
+{
   header: '경고창 (Alert)',
   headerText: '`v-alert` 컴포넌트 중요한 정보를 유저에게 전하는데 쓰입니다. 다음의 4가지 종류가 있습니다; **success**, **info**, **warning** 그리고 **error**. 기본 아이콘은 각기 다른 동작(Action)을 나타내고, 바꿀 수 있습니다.',
   components: ['v-alert'],

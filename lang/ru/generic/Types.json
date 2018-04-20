@@ -1,4 +1,4 @@
-export default {
+{
   Any: 'Любой',
   Array: 'Массив',
   Boolean: 'Boolean',

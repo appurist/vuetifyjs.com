@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     absolute: '요소를 절대 위치 시킴',
     bottom: '컴포넌트를 아랫쪽(bottom)으로 정렬',

@@ -1,4 +1,4 @@
-export default {
+{
   header: '날짜 선택기 (Date/month picker)',
   headerText: '`v-date-picker`는 여러 다른 Vuetify 컴포넌트에서 쓰일 수 있는 독립적 컴포넌트입니다.\n 이 컴포넌트는 날짜/월을 선택할 수 있는 시각적 표현을 제공합니다.',
   components: ['v-date-picker'],

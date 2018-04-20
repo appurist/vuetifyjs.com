@@ -1,4 +1,4 @@
-export default {
+{
   header: '分隔线',
   headerText: '`v-divider`组件用来分隔列表的各部分',
   components: ['v-divider'],

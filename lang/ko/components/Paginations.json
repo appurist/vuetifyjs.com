@@ -1,4 +1,4 @@
-export default {
+{
   header: '페이지네이션 (Pagination)',
   headerText: '`v-pagination` 컴포넌트는 긴 데이터 뭉치를 사용자가 쉽게 볼 수 있도록 나누는 데 쓰입니다. 설정된 길이에 따라 페이지네이션 컴포넌트는 자동으로 확장됩니다. 현재 페이지를 관리하기 위해 간단히 `v-model` 속성을 사용하세요.',
   components: ['v-pagination'],

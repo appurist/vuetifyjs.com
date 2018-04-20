@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Grid list',
   headerText: 'Grid lists являются дополнением для компонента `v-container`, который добавляет контроль gutter между элементами.',
   components: ['v-container', 'v-layout', 'v-flex', 'v-spacer'],

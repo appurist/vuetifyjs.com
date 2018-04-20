@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Bottom nav',
   headerText: '`v-bottom-nav` はサイドバーの代わりに使用することができます。主にモバイルで使用され、アイコンとテキスト、そしてシフトの2種類が用意されています。',
   components: ['v-bottom-nav'],

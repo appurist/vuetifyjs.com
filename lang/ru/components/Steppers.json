@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Stepper',
   headerText: 'Компонент `v-stepper` отображает прогресс по пронумерованным шагам.',
   components: [

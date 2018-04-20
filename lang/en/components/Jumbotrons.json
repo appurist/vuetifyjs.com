@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Jumbotron',
   headerText: 'The jumbotron is a flexible call to action component. Supports background images, gradient overlays and much more.',
   components: [

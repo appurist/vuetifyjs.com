@@ -1,4 +1,4 @@
-export default {
+{
   askCommunity: 'Задать вопрос в сообществе',
   contactUs: 'связаться с нами',
   needHelp: 'Нужна помощь?',

@@ -1,4 +1,4 @@
-export default {
+{
   header: '列表',
   headerText: '`v-list` 组件用于显示信息，它可以包含一个头像、内容、操作、列表组标题等等。列表也可以包含子元素并在侧边栏（sidebar）使用。',
   components: [

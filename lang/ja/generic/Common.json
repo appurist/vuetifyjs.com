@@ -1,4 +1,4 @@
-export default {
+{
   askCommunity: 'Ask the community',
   contactUs: 'Contact Us',
   needHelp: 'Need Help?',

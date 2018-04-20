@@ -1,4 +1,4 @@
-export default {
+{
   announcementBanner: 'Это захватывающее объявление! Или, может быть, это реклама!',
   heading1: 'Vuetify',
   heading1cont: 'Material Component Framework',

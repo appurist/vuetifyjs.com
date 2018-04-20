@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Overview',
   headerText: 'Being a component framework, Vuetify will always grow horizontally. Depending on your project, a small **package size** may be a requirement. The A la carte system enables you to pick and choose which components to import, drastically _lowering_ your build size. **If you already have the `a-la-carte` template installed, you can skip to the [guide](/guides/a-la-carte#application)**.',
   headerText2: 'For a pre-built project demonstrating single component imports, install the **a-la-carte** template from the cli, using the command `vue init vuetifyjs/a-la-carte`. Some of our other templates also include options for enabling a-la-carte components. More information is located in the [Quick start guide](/getting-started/quick-start)',

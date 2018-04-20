@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     actions: '피커 내에서 액션을 사용',
     autosave: '자동으로 선택된 값을 저장. 내부적으로 이전의 값을 업데이트하기 때문에 cancel이 클릭되었을때 사용자가 변경한 것을 되돌리지 않음',

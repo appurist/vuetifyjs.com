@@ -1,4 +1,4 @@
-export default {
+{
   header: '主题',
   headerText: '以编程的方式可以轻松的更爱应用程序的颜色，可以根据您的特定需求来重新构建默认的样式表以及自定义框架的各个方面。如果您正在寻找**主题生成器**，请导航到[这里](/theme-generator)。',
   lightAndDarkHeader: '明亮和暗黑',

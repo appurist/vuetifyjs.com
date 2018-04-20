@@ -1,4 +1,4 @@
-export default {
+{
   props: {
     activator: '在未使用激活器插槽激活器4.字符串可以是任何有效的查询选择器（querySelector），对象（Object）可以是任何有效的Node对象。',
     allowOverflow: '移除内容的移除重新定位',

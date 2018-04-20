@@ -1,4 +1,4 @@
-export default {
+{
   header: 'Содержание',
   headerText: 'Vuetify имеет индивидуальный стиль для нескольких стандартных элементов.',
   blockquoteHeader: 'Цитата из блока',

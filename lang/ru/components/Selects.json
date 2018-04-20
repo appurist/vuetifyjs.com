@@ -1,8 +1,8 @@
 {
   "header": "Select",
   "headerText": "Поля компонента _Select_ используются для сбора предоставленной пользователем информации из списка параметров.",
-  "components": ['v-select'],
-  "supplemental": ['MaskTable'],
+  "components": ["v-select"],
+  "supplemental": ["MaskTable"],
   "examples": [{
     "light": {
       "header": "Светлая тема",
@@ -75,7 +75,7 @@
   },
   "slots": {
     "item": "Область видимости для обозначения разметки для list-tile",
-    'no-data': 'Mixins.Filterable.slots.noData',
+    "no-data': 'Mixins.Filterable.slots.noData",
     "selection": "Область видимости для обозначения разметки для выбранных элементов"
   },
   "scopedSlots": {
@@ -84,7 +84,7 @@
   },
   "events": {
     "change": "Mixins.Input.events.change",
-    "update:error": 'Mixins.Input.events.update:error',
-    "update:searchInput": '`search-input.sync` событие'
+    "update:error": "Mixins.Input.events.update:error",
+    "update:searchInput": "`search-input.sync` событие"
   }
 }

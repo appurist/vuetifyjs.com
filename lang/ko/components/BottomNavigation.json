@@ -1,7 +1,7 @@
 {
   "header": "바닥 내비게이션 (Bottom nav)",
   "headerText": "`v-bottom-nav` 사이드바(sidebar)의 대용품입니다. 주로 모바일 장치에 사용하면 두가지 변형 "아이콘과 텍스트", shift가 있습니다.",
-  "components": ['v-bottom-nav'],
+  "components": ["v-bottom-nav"],
   "examples": [{
     "iconsAndText": {
       "header": "아이콘과 텍스트 (Icons and text)",
@@ -22,6 +22,6 @@
     "fixed": "Mixins.Positionable.props.fixed"
   },
   "events": {
-    "update:active": '`active.sync` 에 쓰이는 이벤트'
+    "update:active": "`active.sync` 에 쓰이는 이벤트"
   }
 }

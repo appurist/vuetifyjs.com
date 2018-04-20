@@ -1,7 +1,7 @@
 {
   "header": "Parallax",
   "headerText": "Компонент `v-parallax` создает 3D-эффект, который заставляет изображение прокручиваться медленнее, чем окно.",
-  "components": ['v-parallax'],
+  "components": ["v-parallax"],
   "examples": [{
     "default": {
       "header": "По умолчанию",

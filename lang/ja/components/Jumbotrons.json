@@ -2,7 +2,7 @@
   "header": "Jumbotron",
   "headerText": "Soon...",
   "components": [
-    'v-jumbotron'
+    "v-jumbotron"
   ],
   "examples": [{
     "usage": {

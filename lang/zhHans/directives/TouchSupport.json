@@ -1,7 +1,7 @@
 {
   "header": "触摸支持",
   "headerText": "`v-touch`</code>`指令允许您捕获轻扫手势手势并应用定向回调。",
-  "components": ['v-touch'],
+  "components": ["v-touch"],
   "examples": [{
     "default": {
       "header": "Default",
@@ -10,7 +10,7 @@
     }
   }],
   "props": [{
-    'v-touch': [
+    "v-touch": [
       {
         "name": "[up, down, left, right]",
         "type": "Function",

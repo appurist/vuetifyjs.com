@@ -1,7 +1,7 @@
 {
   "header": "데이터 테이블 (Data table)",
   "headerText": "`v-data-table` 컴포넌트는 데이터를 테이블 형태로 보여줍니다. 정렬(sorting), 검색(searching), 페이지네이션(pagination), 선택(selection) 등이 가능합니다.",
-  "components": ['v-data-table', 'v-edit-dialog'],
+  "components": ["v-data-table', 'v-edit-dialog"],
   "examples": [{
     "standard": {
       "header": "표준 (Standard)",
@@ -73,14 +73,14 @@
     }
   }],
   "props": {
-    'v-edit-dialog': {
+    "v-edit-dialog": {
       "cancelText": "**large** prop을 사용할때 나오는 취소(cancel) 버튼의 기본 텍스트를 설정",
       "lazy": "Mixins.Bootable.props.lazy",
       "large": "대화찰(dialog)에 서브밋(submit)과 취소(cancel) 버튼을 추가합니다.",
       "saveText": "**large** prop을 사용할때 나오는 저장(save) 버튼의 기본 텍스트를 설정",
       "transition": "Mixins.Transitionable.props.transition"
     },
-    'v-data-table': {
+    "v-data-table": {
       "headerText": "오브젝트를 사용할 경우 헤더의 텍스트 값",
       "headers": "각 헤더 컬럼을 정의하는 오브젝트의 배열(array). 모든 속성(propertiy)의 정의는 아래 예제를 참조하세요.",
       "hideHeaders": "테이블 헤더를 숨김",
@@ -90,7 +90,7 @@
     }
   },
   "scopedSlots": {
-    'v-data-table': {
+    "v-data-table": {
       "headerCell": "커스텀 헤더 셀을 위한 슬롯Slot to customize header cells",
       "headers": "전체 헤더 커스터마이즈를 위한 슬롯"
     }

@@ -1,7 +1,7 @@
 {
   "header": "선택 컨트롤 (Selection controls)",
   "headerText": "선택 컨트롤 컴포넌트는 사용자가 옵션을 선택할 수 있도록 합니다.Selection control components allow a user to select options. 이 컴포넌트들은 자신의 상태를 관리하지 않기 때문에 **반드시** `v-model` prop을 사용해야 합니다.",
-  "components": ['v-radio-group', 'v-radio', 'v-checkbox', 'v-switch'],
+  "components": ["v-radio-group', 'v-radio', 'v-checkbox', 'v-switch"],
   "examples": [{
     "example": {
       "header": "기본 예제",
@@ -70,6 +70,6 @@
   "events": {
     "blur": "Mixins.Input.events.blur",
     "change": "Mixins.Input.events.change",
-    "update:error": 'Mixins.Input.events.update:error'
+    "update:error": "Mixins.Input.events.update:error"
   }
 }

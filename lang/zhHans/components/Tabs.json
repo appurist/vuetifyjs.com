@@ -2,11 +2,11 @@
   "header": "选项卡",
   "headerText": "`v-tabs`组件用于隐藏可选项目后面的内容。这也可以用作页面的伪导航（pseudo-navigation），其中标签是链接，选项卡子项是内容。",
   "components": [
-    'v-tabs',
-    'v-tabs-slider',
-    'v-tabs-item',
-    'v-tabs-items',
-    'v-tabs-content'
+    "v-tabs",
+    "v-tabs-slider",
+    "v-tabs-item",
+    "v-tabs-items",
+    "v-tabs-content"
   ],
   "examples": [{
     "toolbar": {

@@ -1,7 +1,7 @@
 {
   "header": "栅格列表",
   "headerText": "栅格列表是`v-container`组件的一个插件，可以在项目之间添加沟槽控件。",
-  "components": ['v-container', 'v-layout', 'v-flex', 'v-spacer'],
+  "components": ["v-container', 'v-layout', 'v-flex', 'v-spacer"],
   "examples": [{
     "default": {
       "header": "栅格列表",

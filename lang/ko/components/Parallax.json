@@ -1,7 +1,7 @@
 {
   "header": "Parallax",
   "headerText": "`v-parallax` 컴포넌트는 이미지가 윈도우 보다 늦게 스크롤되어 나타다는 3차원 효과를 만듭니다.",
-  "components": ['v-parallax'],
+  "components": ["v-parallax"],
   "examples": [{
     "default": {
       "header": "기본값  (Default)",

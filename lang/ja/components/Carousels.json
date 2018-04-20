@@ -1,7 +1,7 @@
 {
   "header": "Carousel",
   "headerText": "`v-carousel` コンポーネントは、タイマーで入れ替わる数枚の大きなビジュアルコンテンツを表示するために使います。",
-  "components": ['v-carousel', 'v-carousel-item'],
+  "components": ["v-carousel', 'v-carousel-item"],
   "examples": [{
     "default": {
       "header": "デフォルト",

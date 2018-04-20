@@ -1,7 +1,7 @@
 {
   "header": "Data table",
   "headerText": "The `v-data-table` component is used for displaying tabular data. Features include sorting, searching, pagination, inline-editing, header tooltips, and row selection.",
-  "components": ['v-data-table', 'v-edit-dialog'],
+  "components": ["v-data-table', 'v-edit-dialog"],
   "examples": [{
     "standard": {
       "header": "Standard",
@@ -73,14 +73,14 @@
     }
   }],
   "props": {
-    'v-edit-dialog': {
+    "v-edit-dialog": {
       "cancelText": "Sets the default text for the cancel button when using the **large** prop",
       "lazy": "Mixins.Bootable.props.lazy",
       "large": "Attachs a submit and cancel button to the dialog",
       "saveText": "Sets the default text for the save button when using the **large** prop",
       "transition": "Mixins.Transitionable.props.transition"
     },
-    'v-data-table': {
+    "v-data-table": {
       "headerText": "If using an object, the text value for the header",
       "headers": "An array of objects that each describe a header column. See the example below for a definition of all properties.",
       "hideHeaders": "Hide the table headers",
@@ -90,7 +90,7 @@
     }
   },
   "scopedSlots": {
-    'v-data-table': {
+    "v-data-table": {
       "headerCell": "Slot to customize header cells",
       "headers": "Slot to customize entire header"
     }

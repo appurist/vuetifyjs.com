@@ -2,7 +2,7 @@
   "header": "Jumbotron",
   "headerText": "Jumbotron представляет собой гибкий вызов компонента действия. Поддержка фоновых изображений, наложения градиента и многое другое.",
   "components": [
-    'v-jumbotron'
+    "v-jumbotron"
   ],
   "examples": [{
     "usage": {

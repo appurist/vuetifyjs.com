@@ -2,11 +2,11 @@
   "header": "Tab",
   "headerText": "Компонент `v-tabs` используется для скрытия содержимого за выбранным элементом. Это также можно использовать в качестве псевдо-навигации для страницы, где вкладки являются ссылками, а вкладками являются содержимое.",
   "components": [
-    'v-tabs',
-    'v-tab',
-    'v-tabs-items',
-    'v-tab-item',
-    'v-tabs-slider'
+    "v-tabs",
+    "v-tab",
+    "v-tabs-items",
+    "v-tab-item",
+    "v-tabs-slider"
   ],
   "examples": [{
     "toolbar": {

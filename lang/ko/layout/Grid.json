@@ -1,7 +1,7 @@
 {
   "header": "그리드 시스템 (Grid system)",
   "headerText": "Vuetify 12 포인트 그리드 시스템을 사용합니다. <kbd>flex-box</kbd>를 사용하는 이 그리드는 어플리케이션 컨텐츠의 레이아웃에 사용됩니다. 여기엔 여러 화면 크기와 방향에 대응하는 5가지 타입의 미디어 브레이크포인트가 있습니다. 그리드 컴포넌트의 prop들은 사실 정의된 속성에 따라 파생되는 (css) 클래스들입니다. 이를 이용해 이들 (css) 헬퍼 클래스들을 prop 형태로 쉽게 사용할 수 있습니다. 물론 이 클래스들은 여전히 어디든지 사용할 수 있습니다.",
-  "components": ['v-container', 'v-layout', 'v-flex', 'v-spacer'],
+  "components": ["v-container', 'v-layout', 'v-flex', 'v-spacer"],
   "toc": [
     {
       "text": "소개",
@@ -84,7 +84,7 @@
     "alignContentStart": "컨텐츠를 앞 쪽으로 정렬",
     "alignEnd": "항목들을 끝 쪽으로 정렬",
     "alignStart": "항목들을 앞쪽으로 정렬",
-    'd-{type}': 'display 항목을 flex/inline-flex/block 등으로 설정. 형식)`d-{타입}`. 예)`d-flex`.',
+    "d-{type}': 'display 항목을 flex/inline-flex/block 등으로 설정. 형식)`d-{타입}`. 예)`d-flex`.",
     "fillHeight": "Make sure that col element height is filled with parent and child. 자식이 column 요소일 경우, 사파리/파이어폭스 에서 중요함",
     "justifyCenter": "Justify content to the center.",
     "justifyEnd": "Justify content to the end.",
@@ -93,16 +93,16 @@
     "justifyStart": "Justify content to the start.",
     "reverse": "Reverses the currently selected direction (column, row).",
     "wrap": "Allows children to wrap within the container if the elements use more than 100%.",
-    'v-container': {
-      'grid-list-{xs through xl}': 'Sets the gutter between grid list items ranging from 2px to 24px',
+    "v-container": {
+      "grid-list-{xs through xl}': 'Sets the gutter between grid list items ranging from 2px to 24px",
       "fluid": "Removes viewport size breakpoints"
     },
-    'v-flex': {
-      'offset-(size)(1-12)': 'offset-"xs": extra small, offset-"sm": small, offset-"md": medium, offset-"lg": large, offset-"xl": extra large. "Example": offset-xs3',
-      'order-(size)(1-12)': 'order-"xs": extra small, order-"sm": small, order-"md": medium, order-"lg": large, order-"xl": extra large. "Example": order-xs3',
-      '(size)(1-12)': '"xs": extra small, "sm": small, "md": medium, "lg": large, "xl": extra large - 1 through 12'
+    "v-flex": {
+      "offset-(size)(1-12)': 'offset-"xs": extra small, offset-"sm": small, offset-"md": medium, offset-"lg": large, offset-"xl": extra large. "Example": offset-xs3",
+      "order-(size)(1-12)': 'order-"xs": extra small, order-"sm": small, order-"md": medium, order-"lg": large, order-"xl": extra large. "Example": order-xs3",
+      "(size)(1-12)': '"xs": extra small, "sm": small, "md": medium, "lg": large, "xl": extra large - 1 through 12"
     },
-    'v-layout': {
+    "v-layout": {
       "row": "Sets flex direction to row",
       "column": "Sets flex direction to column"
     }

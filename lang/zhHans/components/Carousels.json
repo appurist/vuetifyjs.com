@@ -1,7 +1,7 @@
 {
   "header": "轮播",
   "headerText": "`v-carousel`组件用于在旋转的计时器上显示大量的可视内容。",
-  "components": ['v-carousel', 'v-carousel-item'],
+  "components": ["v-carousel', 'v-carousel-item"],
   "examples": [{
     "default": {
       "header": "默认情况",

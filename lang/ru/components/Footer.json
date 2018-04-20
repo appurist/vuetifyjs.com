@@ -1,7 +1,7 @@
 {
   "header": "Footer",
   "headerText": "`v-footer`компонент используется для отображения общей информации, которую пользователь может захотеть получить с любой страницы вашего сайта.",
-  "components": ['v-footer'],
+  "components": ["v-footer"],
   "examples": [{
     "default": {
       "header": "По умолчанию",

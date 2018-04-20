@@ -1,7 +1,7 @@
 {
   "header": "아바타 (Avatar)",
   "headerText": "`v-avatar` 컴포넌트는 프로필 사진등을 보여줄때 이미지 크기를 자동으로 조절하고(responsive), 테두리를 둥글게 만들어 줍니다.",
-  "components": ['v-avatar'],
+  "components": ["v-avatar"],
   "examples": [{
     "standard": {
       "header": "표준 디스플레이 (Standard display)",

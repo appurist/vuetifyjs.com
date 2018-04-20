@@ -1,7 +1,7 @@
 {
   "header": "选择控件",
   "headerText": "选择控制组件允许用户使用选择项，这些组件必须和 `v-model` 属性一起使用，因为他们无法保持自己的状态。",
-  "components": ['v-radio-group', 'v-radio', 'v-checkbox', 'v-switch'],
+  "components": ["v-radio-group', 'v-radio', 'v-checkbox', 'v-switch"],
   "examples": [{
     "example": {
       "header": "默认示例",

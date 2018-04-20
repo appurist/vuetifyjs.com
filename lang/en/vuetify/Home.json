@@ -24,23 +24,23 @@
   "checkFeaturesTitle": "All the Tools You Need",
   "checkFeaturesTitleCtd": "To Build Incredible User Interfaces",
   "checkFeatures": [
-    'Community Chat Support',
-    'Dynamic Themes',
-    'SSR and PWA Support',
-    '8 vue-cli Templates'
+    "Community Chat Support",
+    "Dynamic Themes",
+    "SSR and PWA Support",
+    "8 vue-cli Templates"
   ],
   "checkFeaturesCtd": [
-    '80+ Material Design Components',
-    'A La Carte Importing',
-    'Transition Components',
-    'Blazing Fast'
+    "80+ Material Design Components",
+    "A La Carte Importing",
+    "Transition Components",
+    "Blazing Fast"
   ],
   "componentFramework": "Component Framework",
   "letterFromAuthor": [
-    'Hey there,',
-    'I know choosing a UI framework can be a daunting task -- there are so many options to choose from and every one of them claims that they are the best. So you have to decide for "yourself": what are the metrics for success?',
-    'This was me almost a year ago. There were plenty of UI toolkits to choose from, but none of them had everything that I needed, and that is why I started working on Vuetify.',
-    'I am extremely humbled that you have considered using Vuetify as your next UI Framework. A lot of care has went into crafting the perfect setup for taking any idea from conception to production. I look forward to you joining the Vuetify community and am excited to see what incredible interfaces you create!'
+    "Hey there,",
+    "I know choosing a UI framework can be a daunting task -- there are so many options to choose from and every one of them claims that they are the best. So you have to decide for "yourself": what are the metrics for success?",
+    "This was me almost a year ago. There were plenty of UI toolkits to choose from, but none of them had everything that I needed, and that is why I started working on Vuetify.",
+    "I am extremely humbled that you have considered using Vuetify as your next UI Framework. A lot of care has went into crafting the perfect setup for taking any idea from conception to production. I look forward to you joining the Vuetify community and am excited to see what incredible interfaces you create!"
   ],
   "authorOfVuetify": "Author of Vuetify",
   "support": {

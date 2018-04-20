@@ -1,8 +1,8 @@
 {
   "header": "Select",
   "headerText": "Select fields components are used for collecting user provided information from a list of options.",
-  "components": ['v-select'],
-  "supplemental": ['MaskTable'],
+  "components": ["v-select"],
+  "supplemental": ["MaskTable"],
   "examples": [{
     "light": {
       "header": "Light theme",
@@ -75,7 +75,7 @@
   },
   "slots": {
     "item": "Scoped slot for designating the markup for a list-tile",
-    'no-data': 'Mixins.Filterable.slots.noData',
+    "no-data': 'Mixins.Filterable.slots.noData",
     "selection": "Scoped slot for designating the markup for the selected items"
   },
   "scopedSlots": {
@@ -84,7 +84,7 @@
   },
   "events": {
     "change": "Mixins.Input.events.change",
-    "update:error": 'Mixins.Input.events.update:error',
-    "update:searchInput": 'The `search-input.sync` event'
+    "update:error": "Mixins.Input.events.update:error",
+    "update:searchInput": "The `search-input.sync` event"
   }
 }

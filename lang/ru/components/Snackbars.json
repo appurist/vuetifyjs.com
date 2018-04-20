@@ -1,7 +1,7 @@
 {
   "header": "Snackbar",
   "headerText": "Компонент `v-snackbar` используется для отображения быстрого сообщения пользователю. Snackbars поддерживают позиционирование, задержку и обратные вызовы.",
-  "components": ['v-snackbar'],
+  "components": ["v-snackbar"],
   "examples": [{
     "position": {
       "header": "Позиционирование",

@@ -1,7 +1,7 @@
 {
   "header": "Subheaders",
   "headerText": "Компонент `v-subheader` используется для выделения разделов списков.",
-  "components": ['v-subheader'],
+  "components": ["v-subheader"],
   "examples": [{
     "list": {
       "header": '',

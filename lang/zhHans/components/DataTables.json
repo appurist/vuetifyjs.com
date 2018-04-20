@@ -1,7 +1,7 @@
 {
   "header": "数据表格",
   "headerText": "`v-data-table` 用于显示表格数据，功能包括排序、搜索、分页、行内编辑、头部提示以及行选择。",
-  "components": ['v-data-table', 'v-edit-dialog'],
+  "components": ["v-data-table', 'v-edit-dialog"],
   "examples": [{
     "standard": {
       "header": "标准",
@@ -73,21 +73,21 @@
     }
   }],
   "props": {
-    'v-edit-dialog': {
+    "v-edit-dialog": {
       "cancelText": "为取消按钮设置默认文本，当使用了 `large` 属性时（即有提交和取消按钮的对话框）。",
       "lazy": "Mixins.Bootable.props.lazy",
       "large": "附加一个提交和取消按钮到对话框",
       "saveText": "为保存按钮设置默认文本，当使用了 `large` 属性时。",
       "transition": "Mixins.Transitionable.props.transition"
     },
-    'v-data-table': {
+    "v-data-table": {
       "headerText": "使用一个对象时表头的文本值",
       "headers": "表头数组",
       "hideHeaders": "隐藏表头"
     }
   },
   "scopedSlots": {
-    'v-data-table': {
+    "v-data-table": {
       "headerCell": "自定义表头每个单元的插槽",
       "headers": "自定义整个表头的插槽"
     }

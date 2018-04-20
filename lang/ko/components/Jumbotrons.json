@@ -2,7 +2,7 @@
   "header": "점보트론 (Jumbotron)",
   "headerText": "점포트론은 유연한 액션컴포넌트 입니다. 배경 이미지와 그래디언트 오버레이, 그리고 여러가지를 지원합니다.",
   "components": [
-    'v-jumbotron'
+    "v-jumbotron"
   ],
   "examples": [{
     "usage": {

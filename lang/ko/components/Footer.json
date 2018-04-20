@@ -1,7 +1,7 @@
 {
   "header": "바닥글 (Footer)",
   "headerText": "`v-footer` 컴포넌트는 사이트내의 모든 페이지에서 유저에게 보여주고 싶은 일반적인 정보를 표시하는데 유용합니다.",
-  "components": ['v-footer'],
+  "components": ["v-footer"],
   "examples": [{
     "default": {
       "header": "디폴트",

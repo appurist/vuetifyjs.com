@@ -1,7 +1,7 @@
 {
   "header": "Карусель",
   "headerText": "Компонент `v-carousel` используется для перебора элементов—изображений или слайдов текста.",
-  "components": ['v-carousel', 'v-carousel-item'],
+  "components": ["v-carousel', 'v-carousel-item"],
   "examples": [{
     "default": {
       "header": "По умолчанию",

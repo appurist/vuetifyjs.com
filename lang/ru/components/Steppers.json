@@ -2,10 +2,10 @@
   "header": "Stepper",
   "headerText": "Компонент `v-stepper` отображает прогресс по пронумерованным шагам.",
   "components": [
-    'v-stepper',
-    'v-stepper-step',
-    'v-stepper-content',
-    'v-stepper-header'
+    "v-stepper",
+    "v-stepper-step",
+    "v-stepper-content",
+    "v-stepper-header"
   ],
   "examples": [{
     "example": {
@@ -70,10 +70,10 @@
     "errorIcon": "Значок для отображения, если на шаге имеется ошибка",
     "nonLinear": "Разрешить пользователю перейти на любой шаг",
     "vertical": "Показывать шаги по вертикали",
-    'v-stepper-step': {
+    "v-stepper-step": {
       "step": "Содержимое для отображения внутри шага"
     },
-    'v-stepper-content': {
+    "v-stepper-content": {
       "step": "Устанавливает шаг для связывания содержимого с"
     }
   }

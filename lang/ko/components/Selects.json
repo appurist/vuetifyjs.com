@@ -1,8 +1,8 @@
 {
   "header": "셀렉트 (Select)",
   "headerText": "셀렉트 필드 컴포넌트는 옵션 목록에서 사용자가 제공하는 정보를 수집하는데 사용됩니다.",
-  "components": ['v-select'],
-  "supplemental": ['MaskTable'],
+  "components": ["v-select"],
+  "supplemental": ["MaskTable"],
   "examples": [{
     "light": {
       "header": "라이트 테마 (Light theme)",
@@ -75,7 +75,7 @@
   },
   "slots": {
     "item": "Scoped slot for designating the markup for a list-tile",
-    'no-data': 'Mixins.Filterable.slots.noData',
+    "no-data': 'Mixins.Filterable.slots.noData",
     "selection": "Scoped slot for designating the markup for the selected items"
   },
   "scopedSlots": {
@@ -84,7 +84,7 @@
   },
   "events": {
     "change": "Mixins.Input.events.change",
-    "update:error": 'Mixins.Input.events.update:error',
-    "update:searchInput": 'The `search-input.sync` event'
+    "update:error": "Mixins.Input.events.update:error",
+    "update:searchInput": "The `search-input.sync` event"
   }
 }

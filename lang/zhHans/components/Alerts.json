@@ -1,7 +1,7 @@
 {
   "header": "提示框",
   "headerText": "`v-alert`组件被用来向用户传达重要信息，它有4个变种，**成功（success）**，**信息（info）**，**警告（warning）**和**错误（error）**。它们被分配了可以修改的表示不同操作的默认图标",
-  "components": ['v-alert'],
+  "components": ["v-alert"],
   "examples": [{
     "contextual": {
       "header": "上下文"

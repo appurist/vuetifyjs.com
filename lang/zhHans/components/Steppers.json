@@ -2,10 +2,10 @@
   "header": "步骤线",
   "headerText": "`v-stepper` 组件用于显示步骤进度。",
   "components": [
-    'v-stepper',
-    'v-stepper-step',
-    'v-stepper-content',
-    'v-stepper-header'
+    "v-stepper",
+    "v-stepper-step",
+    "v-stepper-content",
+    "v-stepper-header"
   ],
   "examples": [{
     "example": {
@@ -70,10 +70,10 @@
     "errorIcon": "步骤错误时的图标显示",
     "nonLinear": "允许用户跳过任意一步",
     "vertical": "垂直显示步骤线",
-    'v-stepper-step': {
+    "v-stepper-step": {
       "step": "要在步骤圈内显示的内容"
     },
-    'v-stepper-content': {
+    "v-stepper-content": {
       "step": "设置步骤关联的内容"
     }
   }

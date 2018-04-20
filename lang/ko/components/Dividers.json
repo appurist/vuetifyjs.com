@@ -1,7 +1,7 @@
 {
   "header": "디바이더 (Divider)",
   "headerText": "`v-divider` 컴포넌트는 리스트의 섹션을 분리합니다.",
-  "components": ['v-divider'],
+  "components": ["v-divider"],
   "examples": [{
     "fullBleed": {
       "header": "풀 블리드 (Full bleed)",

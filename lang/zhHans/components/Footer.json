@@ -1,7 +1,7 @@
 {
   "header": "页脚",
   "headerText": "`v-footer`用于显示用户可能希望从站点内的所有页面访问到的公共信息。",
-  "components": ['v-footer'],
+  "components": ["v-footer"],
   "examples": [{
     "default": {
       "header": "默认",

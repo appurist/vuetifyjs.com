@@ -1,7 +1,7 @@
 {
   "header": "Элементы управления выбора",
   "headerText": "Элементы управления выбора, позволяют пользователю выбирать параметры. Эти компоненты **должны** использоваться с помощью `v-model`, поскольку они не поддерживают свое собственное состояние.",
-  "components": ['v-radio-group', 'v-radio', 'v-checkbox', 'v-switch'],
+  "components": ["v-radio-group', 'v-radio', 'v-checkbox', 'v-switch"],
   "examples": [{
     "example": {
       "header": "Примеры по умолчанию",
@@ -70,6 +70,6 @@
   "events": {
     "blur": "Mixins.Input.events.blur",
     "change": "Mixins.Input.events.change",
-    "update:error": 'Mixins.Input.events.update:error'
+    "update:error": "Mixins.Input.events.update:error"
   }
 }

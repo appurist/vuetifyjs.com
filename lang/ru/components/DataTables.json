@@ -1,7 +1,7 @@
 {
   "header": "Data table",
   "headerText": "Компонент `v-data-table` используется для отображения данных в виде таблицы. Особенности включают сортировку, поиск, разбиение на страницы, встроенное редактирование, всплывающие подсказки и выбор строк.",
-  "components": ['v-data-table', 'v-edit-dialog'],
+  "components": ["v-data-table', 'v-edit-dialog"],
   "examples": [{
     "standard": {
       "header": "Стандарт",
@@ -73,14 +73,14 @@
     }
   }],
   "props": {
-    'v-edit-dialog': {
+    "v-edit-dialog": {
       "cancelText": "Устанавливает текст по умолчанию для кнопки отмены при использовании **large** prop",
       "lazy": "Mixins.Bootable.props.lazy",
       "large": "Прикрепляет кнопку отправки и отмены к диалоговому окну",
       "saveText": "Устанавливает текст по умолчанию для кнопки сохранения при использовании  **large** prop",
       "transition": "Mixins.Transitionable.props.transition"
     },
-    'v-data-table': {
+    "v-data-table": {
       "headerText": "При использовании объекта текстовое значение для заголовка",
       "headers": "Массив объектов, каждый из которых описывает столбец заголовка. См. Пример ниже для определения всех свойств.",
       "hideHeaders": "Скрыть заголовки таблиц",
@@ -90,7 +90,7 @@
     }
   },
   "scopedSlots": {
-    'v-data-table': {
+    "v-data-table": {
       "headerCell": "Слот для настройки ячеек заголовка",
       "headers": "Слот для настройки всего заголовка"
     }

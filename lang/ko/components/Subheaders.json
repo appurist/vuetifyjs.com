@@ -1,7 +1,7 @@
 {
   "header": "서브헤더 (Subheaders)",
   "headerText": "`v-subheader` 컴포넌트는 리스트의 섹션을 분리하는데 사용됩니다.",
-  "components": ['v-subheader'],
+  "components": ["v-subheader"],
   "examples": [{
     "list": {
       "header": "리스트 서브헤더 (List subheaders)",

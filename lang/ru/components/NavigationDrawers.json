@@ -1,7 +1,7 @@
 {
   "header": "Панель навигации",
   "headerText": "`v-navigation-drawer`Компонент - это то, что ваши пользователи будут использовать для навигации по приложению. Панель навигации предварительно настроена для работы с **vue-router** прямо из коробки.",
-  "components": ['v-navigation-drawer'],
+  "components": ["v-navigation-drawer"],
   "examples": [{
     "permanent": {
       "header": "По умолчанию",

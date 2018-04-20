@@ -1,7 +1,7 @@
 {
   "header": "分隔线",
   "headerText": "`v-divider`组件用来分隔列表的各部分",
-  "components": ['v-divider'],
+  "components": ["v-divider"],
   "examples": [{
     "fullBleed": {
       "header": "完全流血（Full bleed）",

@@ -1,7 +1,7 @@
 {
   "header": "Итератор данных",
   "headerText": "Компонент `v-data-iterator` используется для отображения данных и делится большинством своих функций с компонентом` v-data-table`. Особенности включают сортировку, поиск, разбивку на страницы и выбор.",
-  "components": ['v-data-iterator'],
+  "components": ["v-data-iterator"],
   "examples": [{
     "simple": {
       "header": "Несложный",
@@ -16,6 +16,6 @@
     "prevIcon": "Mixins.Input.props.prependIcon"
   },
   "events": {
-    "update:pagination": ' `pagination.sync` событие обновления'
+    "update:pagination": " `pagination.sync` событие обновления"
   }
 }

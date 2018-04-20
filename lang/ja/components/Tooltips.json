@@ -1,7 +1,7 @@
 {
   "header": "Tooltip",
   "headerText": "`v-tooltip` コンポーネントはユーザーが要素をホバーした際に情報を表示するのに便利です。**v-model** を経由してTooltipの表示をプログラム的に制御することができます。",
-  "components": ['v-tooltip'],
+  "components": ["v-tooltip"],
   "examples": [{
     "default": {
       "header": "Default",

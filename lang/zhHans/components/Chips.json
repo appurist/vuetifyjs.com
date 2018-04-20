@@ -1,7 +1,7 @@
 {
   "header": "厚切薯条🍟",
   "headerText": "`v-chip`组件用于传递小块信息。使用`close`属性，厚切薯条变得互动，允许用户交互。",
-  "components": ['v-chip'],
+  "components": ["v-chip"],
   "examples": [{
     "default": {
       "header": "默认情况",

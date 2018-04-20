@@ -1,7 +1,7 @@
 {
   "header": "Date/month picker",
   "headerText": "The `v-date-picker` is stand-alone component that can be utilized in many existing Vuetify components. It offers the user a visual representation for selecting date/month.",
-  "components": ['v-date-picker'],
+  "components": ["v-date-picker"],
   "examples": [{
     "dateLight": {
       "header": "Date pickers",
@@ -89,7 +89,7 @@
     }
   }],
   "props": {
-    'v-date-picker': {
+    "v-date-picker": {
       "type": "Determines the type of the picker - `date` for date picker, `month` for month picker",
       "monthFormat": "Formatting function used for displaying months in the months table. Called with date (ISO 8601 string) and locale (string) arguments.",
       "allowedDates": "Restricts which dates can be selected",

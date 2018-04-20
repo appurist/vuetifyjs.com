@@ -2,10 +2,10 @@
   "header": "단계 (Stepper)",
   "headerText": "`v-stepper` 컴포넌트는 숫자가 매겨진 단계를 가진 진행상태를 표시합니다.",
   "components": [
-    'v-stepper',
-    'v-stepper-step',
-    'v-stepper-content',
-    'v-stepper-header'
+    "v-stepper",
+    "v-stepper-step",
+    "v-stepper-content",
+    "v-stepper-header"
   ],
   "examples": [{
     "example": {
@@ -70,10 +70,10 @@
     "errorIcon": "단계에 오류가 있을 대 표시할 아이콘",
     "nonLinear": "사용자가 어떤 단계로든 이동할 수 있도록 설정",
     "vertical": "단계를 세로로 표시",
-    'v-stepper-step': {
+    "v-stepper-step": {
       "step": "단계의 원 안에 표시할 컨탠츠"
     },
-    'v-stepper-content': {
+    "v-stepper-content": {
       "step": "단계와 연관된 컨텐츠"
     }
   }

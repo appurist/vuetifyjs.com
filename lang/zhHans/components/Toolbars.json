@@ -2,11 +2,11 @@
   "header": "工具栏",
   "headerText": "`v-toolbar`组件对于任何GUI都很重要，因为它通常是网站导航的主要来源。工具栏组件可以与导航抽屉一起很好地工作，用于隐藏链接并呈现激活器以在移动设备上打开侧边栏。",
   "components": [
-    'v-toolbar',
-    'v-toolbar-title',
-    'v-toolbar-items',
-    'v-toolbar-side-icon',
-    'v-system-bar'
+    "v-toolbar",
+    "v-toolbar-title",
+    "v-toolbar-items",
+    "v-toolbar-side-icon",
+    "v-system-bar"
   ],
   "examples": [{
     "default": {

@@ -2,11 +2,11 @@
   "header": "탭 (Tab)",
   "headerText": "`v-tabs` 컴포넌트는 선택가능한 아이템의 뒤로 컨텐츠를 숨기는데 사용됩니다. 탭은 페이지 내에서 탭이 링크이고 탭-아이템이 컨텐츠인 것 처럼 유사-탐색(pseudo-navigation)으로 사용될 수 있습니다.",
   "components": [
-    'v-tabs',
-    'v-tab',
-    'v-tabs-items',
-    'v-tab-item',
-    'v-tabs-slider'
+    "v-tabs",
+    "v-tab",
+    "v-tabs-items",
+    "v-tab-item",
+    "v-tabs-slider"
   ],
   "examples": [{
     "toolbar": {

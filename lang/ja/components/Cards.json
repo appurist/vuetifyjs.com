@@ -2,10 +2,10 @@
   "header": "Card",
   "headerText": "`v-card` コンポーネントは、パネルから画像まであらゆる用途に使用できる汎用的なコンポーネントです。**card** コンポーネントには、可能な限りマークアップを簡単にするためのたくさんのヘルパーコンポーネントが存在します。オプションを持たないコンポーネントはレンダリングを高速化し、構築を簡単にするための糖衣構文として機能するために、Vueのコンポーネント機能を使用しています。",
   "components": [
-    'v-card',
-    'v-card-media',
-    'v-card-title',
-    'v-card-actions'
+    "v-card",
+    "v-card-media",
+    "v-card-title",
+    "v-card-actions"
   ],
   "examples": [{
     "components": {

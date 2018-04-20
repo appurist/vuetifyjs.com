@@ -1,7 +1,7 @@
 {
   "header": "Form",
   "headerText": "Когда дело доходит до валидации, Vuetify имеет множество интеграций и искусно работает. Хотите использовать сторонний плагин проверки? Из коробки вы можете использовать [Vee-validate](https://github.com/baianat/Vee-validate) and [vuelidate](https://github.com/monterail/vuelidate).",
-  "components": ['v-form'],
+  "components": ["v-form"],
   "examples": [{
     "basicValidation": {
       "header": "VForm - базовая валидация",

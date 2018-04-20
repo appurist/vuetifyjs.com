@@ -2,15 +2,15 @@
   "header": "List",
   "headerText": "The `v-list` component is used to display information. It can contain an avatar, content, actions, subheaders and much more. Lists can contain children and are used in the sidebar.",
   "components": [
-    'v-list',
-    'v-list-tile',
-    'v-list-tile-title',
-    'v-list-tile-sub-title',
-    'v-list-tile-content',
-    'v-list-tile-action',
-    'v-list-tile-avatar',
-    'v-list-group',
-    'v-list-tile-action-text'
+    "v-list",
+    "v-list-tile",
+    "v-list-tile-title",
+    "v-list-tile-sub-title",
+    "v-list-tile-content",
+    "v-list-tile-action",
+    "v-list-tile-avatar",
+    "v-list-group",
+    "v-list-tile-action-text"
   ],
   "examples": [{
     "avatarTwoLines": {

@@ -1,7 +1,7 @@
 {
   "header": "Data table",
   "headerText": "`v-data-table` コンポーネントは表形式のデータを表示するために使われます。ソート、検索、ページネーション、インライン編集、ヘッダーツールチップ、行の選択 などの機能を含んでいます。",
-  "components": ['v-data-table', 'v-edit-dialog'],
+  "components": ["v-data-table', 'v-edit-dialog"],
   "examples": [{
     "standard": {
       "header": "基本的な使い方",
@@ -69,21 +69,21 @@
     }
   }],
   "props": {
-    'v-edit-dialog': {
+    "v-edit-dialog": {
       "cancelText": "**large** prop を使用した際に表示されるキャンセルボタンのデフォルトテキストを設定します。",
       "lazy": "Mixins.Bootable.props.lazy",
       "large": "ダイアログの送信ボタンとキャンセルボタンに適用されます。",
       "saveText": "**large** prop を使用した際に表示される保存ボタンのデフォルトテキストを設定します。",
       "transition": "Mixins.Transitionable.props.transition"
     },
-    'v-data-table': {
+    "v-data-table": {
       "headerText": "ヘッダーとなるテキストを設定します。",
       "headers": "ヘッダーのカラムとなる配列のオブジェクトを設定します。 全プロパティの定義については下記の例を参照してください。",
       "hideHeaders": "ヘッダーを非表示にします。"
     }
   },
   "scopedSlots": {
-    'v-data-table': {
+    "v-data-table": {
       "headerCell": "ヘッダーのセルをカスタマイズするためのスロットです",
       "headers": "ヘッダー全体をカスタマイズするためのスロットです"
     }

@@ -1,7 +1,7 @@
 {
   "header": "Footer",
   "headerText": "`v-footer`コンポーネントは、あなたのサイト内のどのページからでもアクセスしたい一般的な情報を表示するために使われます。",
-  "components": ['v-footer'],
+  "components": ["v-footer"],
   "examples": [{
     "default": {
       "header": "Default",

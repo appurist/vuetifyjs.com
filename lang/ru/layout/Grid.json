@@ -1,7 +1,7 @@
 {
   "header": "Система Grid",
   "headerText": "Vuetify имеет 12-точечную систему сеток. Построенная с использованием <kbd> flex-box </kbd>, сетка используется для компоновки содержимого приложения. Она содержит 5 типов точек прерывания, которые используются для ориентации определенных размеров экрана или ориентации. Реквизиты для компонентов сетки фактически являются классами, которые получены из их определенных свойств. Это позволяет вам легко указать эти вспомогательные классы в качестве свойства, при этом все еще предоставляя классы для использования в любом месте.",
-  "components": ['v-container', 'v-layout', 'v-flex', 'v-spacer'],
+  "components": ["v-container', 'v-layout', 'v-flex', 'v-spacer"],
   "toc": [
     {
       "text": "Введение",
@@ -84,7 +84,7 @@
     "alignContentStart": "Совместите содержимое с началом.",
     "alignEnd": "Выровняйте элементы до конца.",
     "alignStart": "Выровняйте элементы до начала.",
-    'd-{type}': 'Укажите, чтобы отобразить элемент как flex/inline-flex/block и т. Д. Синтаксис - `d- {type}`. Например, `d-flex`.',
+    "d-{type}': 'Укажите, чтобы отобразить элемент как flex/inline-flex/block и т. Д. Синтаксис - `d- {type}`. Например, `d-flex`.",
     "fillHeight": "Убедитесь, что высота элемента col заполняется родительским и дочерним. Важно для Safari / Firefox, если дети являются элементом столбца.",
     "justifyCenter": "Выравнять контент по центру.",
     "justifyEnd": "Выравнять контент в конец",
@@ -93,16 +93,16 @@
     "justifyStart": "Выравнять контент start.",
     "reverse": "Отменяет текущее выбранное направление (column, row).",
     "wrap": "Позволяет детям обертываться внутри контейнера, если элементы используют более 100%.",
-    'v-container': {
-      'grid-list-{xs through xl}': 'Устанавливает gutter между элементами списка сетки в диапазоне от 2 до 24 пикселей',
+    "v-container": {
+      "grid-list-{xs through xl}': 'Устанавливает gutter между элементами списка сетки в диапазоне от 2 до 24 пикселей",
       "fluid": "Удаляет контрольные точки размера viewport"
     },
-    'v-flex': {
-      'offset-(size)(1-12)': 'offset-"xs": extra small, offset-"sm": small, offset-"md": medium, offset-"lg": large, offset-"xl": extra large. "Example": offset-xs3',
-      'order-(size)(1-12)': 'order-"xs": extra small, order-"sm": small, order-"md": medium, order-"lg": large, order-"xl": extra large. "Example": order-xs3',
-      '(size)(1-12)': '"xs": extra small, "sm": small, "md": medium, "lg": large, "xl": extra large - 1 through 12'
+    "v-flex": {
+      "offset-(size)(1-12)': 'offset-"xs": extra small, offset-"sm": small, offset-"md": medium, offset-"lg": large, offset-"xl": extra large. "Example": offset-xs3",
+      "order-(size)(1-12)': 'order-"xs": extra small, order-"sm": small, order-"md": medium, order-"lg": large, order-"xl": extra large. "Example": order-xs3",
+      "(size)(1-12)': '"xs": extra small, "sm": small, "md": medium, "lg": large, "xl": extra large - 1 through 12"
     },
-    'v-layout': {
+    "v-layout": {
       "row": "Устанавливает направление смещения в ряд",
       "column": "Устанавливает направление flex в столбец"
     }

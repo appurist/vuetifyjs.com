@@ -1,7 +1,7 @@
 {
   "header": "Resize directive",
   "headerText": "The `v-resize` directive can be used for calling specific functions when the window resizes.",
-  "components": ['v-resize'],
+  "components": ["v-resize"],
   "examples": [{
     "default": {
       "header": "Default",
@@ -10,7 +10,7 @@
     }
   }],
   "options": {
-    "modifiers.quiet": '`v-resize.quiet="callback"` Will **not** automatically invoke the provided callback on bind.',
-    "value": '`v-resize="callback"` The function to invoke on window resize'
+    "modifiers.quiet": "`v-resize.quiet="callback"` Will **not** automatically invoke the provided callback on bind.",
+    "value": "`v-resize="callback"` The function to invoke on window resize"
   }
 }

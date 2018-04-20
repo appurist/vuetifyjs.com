@@ -1,8 +1,8 @@
 {
   "header": "텍스트 필드 (Text field)",
   "headerText": "텍스트 필드 컴포넌트는 사용자가 제공한 정보를 모으는데 사용됩니다.",
-  "components": ['v-text-field'],
-  "supplemental": ['MaskTable'],
+  "components": ["v-text-field"],
+  "supplemental": ["MaskTable"],
   "examples": [{
     "label": {
       "header": "레이블과 함께 (With label)",
@@ -96,6 +96,6 @@
   },
   "events": {
     "change": "Mixins.Input.events.change",
-    "update:error": 'Mixins.Input.events.update:error'
+    "update:error": "Mixins.Input.events.update:error"
   }
 }

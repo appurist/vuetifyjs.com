@@ -1,7 +1,7 @@
 {
   "header": "Slider",
   "headerText": "The `v-slider` component is a better visualization of the number input. It is used for gathering numerical user data.",
-  "components": ['v-slider'],
+  "components": ["v-slider"],
   "examples": [{
     "continuous": {
       "header": "Continuous",

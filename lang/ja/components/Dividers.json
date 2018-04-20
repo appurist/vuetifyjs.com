@@ -1,7 +1,7 @@
 {
   "header": "Divider",
   "headerText": "`v-divider` コンポーネントは、リスト中のセクションの区切り線として使用することができます。",
-  "components": ['v-divider'],
+  "components": ["v-divider"],
   "examples": [{
     "fullBleed": {
       "header": "全幅",

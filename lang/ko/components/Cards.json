@@ -2,10 +2,10 @@
   "header": "카드 (Card)",
   "headerText": "`v-card` 컴포넌트는 패널부터 스태틱 이미지까지 어떤 것에든 쓸 수 있는 다재다능한 컴포넌트입니다. **card** 컴포넌트엔 쉬운 마크업(markup)을 도와주는 여러 헬퍼 컴포넌트가 있습니다. 나열된 옵션 이 없는 컴포넌트들은 더 빠른 렌더링을 위해 **Vue의** 펑셔널 컴포넌트(functional component) 옵션을 사용하고 쉽게 만들기 위한 마크업 슈거로 작동합니다.",
   "components": [
-    'v-card',
-    'v-card-media',
-    'v-card-title',
-    'v-card-actions'
+    "v-card",
+    "v-card-media",
+    "v-card-title",
+    "v-card-actions"
   ],
   "examples": [{
     "components": {

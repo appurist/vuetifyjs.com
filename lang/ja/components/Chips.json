@@ -1,7 +1,7 @@
 {
   "header": "Chip",
   "headerText": "`v-chip` コンポーネントは小さな情報の断片を伝えるために使用されます。`close` プロパティを使用すると、Chip はインタラクティブとなり、ユーザーの入力を受け付けられるようになります。",
-  "components": ['v-chip'],
+  "components": ["v-chip"],
   "examples": [{
     "default": {
       "header": "デフォルト",

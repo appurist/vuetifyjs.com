@@ -31,7 +31,7 @@
   },
   "electron": {
     "title": "Electron",
-    "desc": "Vuetify\'s official Electron template for creating desktop applications."
+    "desc": "Vuetify's official Electron template for creating desktop applications."
   },
   "aLaCarte": {
     "title": "A La Carte",

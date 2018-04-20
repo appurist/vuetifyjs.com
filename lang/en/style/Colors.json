@@ -5,7 +5,7 @@
   "classesText": "Each color from the spec gets converted to a **background** and **text** variant for styling within your application through a class, e.g. `<div class="red">` or `<span class="red--text">`. These class colors are defined [here](https://github.com/vuetifyjs/vuetify/blob/master/src/stylus/settings/_colors.styl).",
   "classesText2": "Text colors also support **darken** and **lighten** variants using `text--{lighten|darken}-{n}`",
   "javascriptPackHeader": "Javascript color pack",
-  "javascriptPackText": "Vuetify has an optional javascript color pack that you can import and use within your application. This can also be used to help define your application\'s theme.",
+  "javascriptPackText": "Vuetify has an optional javascript color pack that you can import and use within your application. This can also be used to help define your application's theme.",
   "stylusPackHeader": "Stylus color pack",
   "stylusPackText": "While convenient, the color pack increases the css export size by ~30kb. Some projects may only require the default provided classes that are created at run-time from the Vuetify bootstrap. To disable this feature, you will have to _manually_ import and build the main **stylus** file. This will require a [stylus loader](https://github.com/shama/stylus-loader) and a `.styl` file entry.",
   "stylusPackText2": "Your created `main.styl` file will then need to be included in your project.",

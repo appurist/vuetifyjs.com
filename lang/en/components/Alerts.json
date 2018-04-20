@@ -8,7 +8,7 @@
     },
     "closable": {
       "header": "Closable",
-      "desc": "Using `v-model` you can control the state of the Alert. If you don\'t want to assign a v-model and just display the alert, you can simply assign the prop `value`."
+      "desc": "Using `v-model` you can control the state of the Alert. If you don't want to assign a v-model and just display the alert, you can simply assign the prop `value`."
     },
     "icon": {
       "header": "Custom Icon / No Icon",

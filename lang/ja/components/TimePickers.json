@@ -25,7 +25,7 @@
     },
     "timeWidth": {
       "header": "Time pickers - Setting picker width",
-      "desc": "You can specify allowed the picker\'s width or make it full width."
+      "desc": "You can specify allowed the picker's width or make it full width."
     }
   }],
   "props": {

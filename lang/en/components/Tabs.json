@@ -23,7 +23,7 @@
     },
     "content": {
       "header": "Content",
-      "desc": "Tabs are not the only thing you can put inside the `v-tabs` component. In this example we\'ve also added a toolbar."
+      "desc": "Tabs are not the only thing you can put inside the `v-tabs` component. In this example we've also added a toolbar."
     },
     "search": {
       "header": "With search",

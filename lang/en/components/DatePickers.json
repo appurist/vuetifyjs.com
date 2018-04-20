@@ -21,7 +21,7 @@
     },
     "dateWidth": {
       "header": "Date pickers - Setting picker width",
-      "desc": "You can specify allowed the picker\'s width or make it full width."
+      "desc": "You can specify allowed the picker's width or make it full width."
     },
     "dateBirthday": {
       "header": "Date pickers - birthday picker",
@@ -69,7 +69,7 @@
     },
     "monthWidth": {
       "header": "Month pickers - Setting picker width",
-      "desc": "You can specify allowed the picker\'s width or make it full width."
+      "desc": "You can specify allowed the picker's width or make it full width."
     },
     "monthInternationalization": {
       "header": "Month pickers - Internationalization",
@@ -107,7 +107,7 @@
       "pickerDate": "Displayed year/month",
       "nextIcon": "Sets the icon for next month/year button",
       "prevIcon": "Sets the icon for previous month/year button",
-      "readonly": "Makes the picker readonly (doesnt\'t allow to select new date or navigate through months/years)",
+      "readonly": "Makes the picker readonly (doesnt't allow to select new date or navigate through months/years)",
       "scrollable": "Allows changing displayed month with mouse scroll",
       "showCurrent": "Toggles visibility of the current date/month outline or shows the provided date/month as a current"
     }

@@ -9,7 +9,7 @@
     },
     "permanentClipped": {
       "header": "Colored drawer",
-      "desc": "Navigation drawers can be customized to fit any application\'s design. While any component can be used within a drawer, the primary ones you will use are `v-list`, all of the **list** children components and `v-divider`"
+      "desc": "Navigation drawers can be customized to fit any application's design. While any component can be used within a drawer, the primary ones you will use are `v-list`, all of the **list** children components and `v-divider`"
     },
     "permanentFloating": {
       "header": "Permanent floating drawer",

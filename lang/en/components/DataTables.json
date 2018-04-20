@@ -21,7 +21,7 @@
     },
     "progress": {
       "header": ""Slot": progress",
-      "desc": "There is also a `progress` slot for when you want to customize the display for the data table\'s `loading` state.  By default this is an `indeterminate` `v-progress-linear`"
+      "desc": "There is also a `progress` slot for when you want to customize the display for the data table's `loading` state.  By default this is an `indeterminate` `v-progress-linear`"
     },
     "footer": {
       "header": ""Slot": footer",
@@ -57,7 +57,7 @@
     },
     "server": {
       "header": "Paginate and sort server-side",
-      "desc": "If you\'re loading data from a backend and want to paginate and sort the results before displaying them, you can use the `total-items` prop. Defining this prop will disable the built-in sorting and pagination, and you will instead need to use the `pagination` prop to listen for changes. Use the `loading` prop to display a progress bar while fetching data."
+      "desc": "If you're loading data from a backend and want to paginate and sort the results before displaying them, you can use the `total-items` prop. Defining this prop will disable the built-in sorting and pagination, and you will instead need to use the `pagination` prop to listen for changes. Use the `loading` prop to display a progress bar while fetching data."
     },
     "headerless": {
       "header": "Headerless tables",

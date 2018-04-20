@@ -37,7 +37,7 @@
       "outline": "Button will have an outline",
       "round": "Button will be round on the sides",
       "small": "Small size button",
-      "type": "Set the button\'s type attribute"
+      "type": "Set the button's type attribute"
     },
     'v-speed-dial': {
       "direction": "Direction in which speed-dial content will show. Possible values are `top`, `bottom`, `left`, `right`.",

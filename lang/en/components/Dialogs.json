@@ -15,7 +15,7 @@
     },
     "modal": {
       "header": "Modal",
-      "desc": "Similar to a Simple Dialog, except that it\'s not dismissed when touching outside.",
+      "desc": "Similar to a Simple Dialog, except that it's not dismissed when touching outside.",
       "uninverted": true
     },
     "fullscreen": {

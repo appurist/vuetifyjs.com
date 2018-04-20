@@ -16,7 +16,7 @@
     },
     "appBarItems": {
       "header": "App bar with items",
-      "desc": "Utilizing the `v-toolbar-items` component you can use regular `v-btn` components to create app bar items. Don\'t forget to apply the `flat` prop to each button."
+      "desc": "Utilizing the `v-toolbar-items` component you can use regular `v-btn` components to create app bar items. Don't forget to apply the `flat` prop to each button."
     },
     "appBarExtension": {
       "header": "App bar with extension",

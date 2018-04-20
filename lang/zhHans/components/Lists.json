@@ -27,7 +27,7 @@
     },
     "avatarThreeLines": {
       "header": "头像和三行的组合",
-      "desc": "对于3行的列表，列表项副标题内容占两行的时候如果超出范围则以省略号形式截断文字，如果你需要超过3行，建议使用 <router-link to="/components/cards">card</router-link>组件。"
+      "desc": "对于3行的列表，列表项副标题内容占两行的时候如果超出范围则以省略号形式截断文字，如果你需要超过3行，建议使用 <router-link to=\"/components/cards">card</router-link>组件。\"
     },
     "avatarSubheaderTitleAndAction": {
       "header": "头像和标题以及操作的组合",

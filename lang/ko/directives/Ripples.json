@@ -5,7 +5,7 @@
   "examples": [{
     "buttons": {
       "header": "기본값",
-      "desc": "기본적으로 버튼은 리플이 활성화되어 있습니다. `:ripple="false"` prop으로 제거할 수도 있습니다.",
+      "desc": "기본적으로 버튼은 리플이 활성화되어 있습니다. `:ripple=\"false\"` prop으로 제거할 수도 있습니다.",
       "uninverted": true
     },
     "customColor": {

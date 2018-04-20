@@ -5,7 +5,7 @@
   "examples": [{
     "buttons": {
       "header": "По умолчанию",
-      "desc": "Кнопки по умолчанию имеют ripple. Можно удалить с помощью свойств `:ripple ="false`.",
+      "desc": "Кнопки по умолчанию имеют ripple. Можно удалить с помощью свойств `:ripple =\"false`.\",
       "uninverted": true
     },
     "customColor": {

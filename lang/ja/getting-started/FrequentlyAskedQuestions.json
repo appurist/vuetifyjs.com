@@ -1,6 +1,6 @@
 {
   "header": "Frequently asked questions",
-  "headerText": "Stuck on a particular problem? Check some of these common gotchas before creating a ticket. If you still cannot find what you are looking for, submit an <a href="https://issues.vuetifyjs.com" target="_blank" rel="noopener">issue</a> on github or ask the community in <a href="https://chat.vuetifyjs.com" target="_blank" rel="noopener">discord</a>.",
+  "headerText": "Stuck on a particular problem? Check some of these common gotchas before creating a ticket. If you still cannot find what you are looking for, submit an <a href=\"https://issues.vuetifyjs.com\" target=\"_blank\" rel=\"noopener\">issue</a> on github or ask the community in <a href=\"https://chat.vuetifyjs.com\" target=\"_blank\" rel=\"noopener">discord</a>.\",
   "question": "Question:",
   "answer": "Answer",
   "noResultsFound": "No results found",
@@ -44,7 +44,7 @@
     },
     {
       "q": "My page on mobile is not responsive",
-      "a": "Add the `<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">` to the `<head>` section in your index.html."
+      "a": "Add the `<meta name=\"viewport\" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">` to the `<head>` section in your index.html."
     },
     {
       "q": "How do I use Font Awesome Icons or Material Design Icons (mdi)?",
@@ -52,11 +52,11 @@
     },
     {
       "q": "My dialog closes immediately after clicking the button",
-      "a": "When not using the **activator** slot for `v-menu` and `v-dialog` for example, you must manually stop the _propagation_ of the click event. To do this, simply add the _.stop_ modifier to the click event, `@click.stop="myMethod"`."
+      "a": "When not using the **activator** slot for `v-menu` and `v-dialog` for example, you must manually stop the _propagation_ of the click event. To do this, simply add the _.stop_ modifier to the click event, `@click.stop=\"myMethod"`.\"
     },
     {
       "q": "Relative images are not working in `v-card` components",
-      "a": "Vue loader converts relative paths into require functions automatically for you. Unfortunately, this is not the case when it comes to custom components. You can circumvent this issue by using `require`.<br><br>`<v-card :src="require("path/to/img/img.jpg")"`"
+      "a": "Vue loader converts relative paths into require functions automatically for you. Unfortunately, this is not the case when it comes to custom components. You can circumvent this issue by using `require`.<br><br>`<v-card :src=\"require("path/to/img/img.jpg")"`\"
     }
   ],
   "questionHeader": "Have something that you think belongs here?",

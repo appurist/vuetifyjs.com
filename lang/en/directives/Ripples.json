@@ -5,7 +5,7 @@
   "examples": [{
     "buttons": {
       "header": "Default",
-      "desc": "Buttons by default have ripples enabled. This can be removed with the prop `:ripple="false`.",
+      "desc": "Buttons by default have ripples enabled. This can be removed with the prop `:ripple=\"false`.\",
       "uninverted": true
     },
     "customColor": {

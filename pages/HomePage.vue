@@ -26,6 +26,7 @@
             ).display-3
               div(v-text="$t('Vuetify.Home.materialDesign')")
               div(v-text="$t('Vuetify.Home.componentFramework')")
+            translatable(i18n="Vuetify.Home.getStarted")
             v-btn(
               :to="{ name: 'getting-started/QuickStart' }"
               class="primary--text"
@@ -33,7 +34,7 @@
               large
               style="min-width: 128px;"
             )
-              | {{ $t("Vuetify.Home.getStarted") }}
+                | {{ $t('Vuetify.Home.getStarted') }}
             v-btn(
               color="white"
               href="https://github.com/vuetifyjs/vuetify"
@@ -53,7 +54,7 @@
               target="_blank"
             )
               v-icon(left) mdi-discord
-              | {{ $t("Vuetify.Home.getHelp") }}
+              | {{ $t('Vuetify.Home.getHelp') }}
 
       v-container(
         grid-list-xl
@@ -76,16 +77,21 @@
               ).mb-2
               v-card-text
                 h3(
-                  v-text="feature.title"
                   style="font-size: 18px; font-weight: 500;"
-                ).mb-3.text-xs-center
-                p(v-text="feature.text").text-xs-center.mb-2
+                ).mb-3.text-xs-center.feature-title
+                  translatable(:i18n="`Vuetify.Home.features[${i}].title`")
+                    span {{ $t(`Vuetify.Home.features[${i}].title`) }}
+                p.text-xs-justify.mb-2.feature-text
+                  translatable(:i18n="`Vuetify.Home.features[${i}].text`")
+                    span {{ $t(`Vuetify.Home.features[${i}].text`) }}
 
     section#sponsors-and-backers.my-5
       v-container
         v-layout
           v-flex(xs12)
-            h2(v-text="$t('Vuetify.Home.proudlySponsoredBy')").text-xs-center.headline.mb-3.grey--text
+            h2.text-xs-center.headline.mb-3.grey--text
+              translatable(i18n="Vuetify.Home.proudlySponsoredBy")
+                span {{ $t('Vuetify.Home.proudlySponsoredBy') }}
             v-layout(row wrap justify-center align-center)
               template(v-for="(supporter, i) in supporters")
                 v-flex(
@@ -109,6 +115,7 @@
                     :style="{ maxHeight: `${supporter.size}px` }"
                   )
               v-flex(xs12).text-xs-center.mt-3
+                translatable(i18n="Vuetify.Home.becomeSponsor")
                 v-btn(
                   :to="{ name: 'getting-started/SponsorsAndBackers' }"
                   color="primary"
@@ -120,8 +127,10 @@
     section#checked-features.mb-5
       v-container
         h2.text-xs-center.headline.mb-5.grey--text
+          translatable(i18n="Vuetify.Home.checkFeaturesTitle")
           span {{ $t("Vuetify.Home.checkFeaturesTitle") }}
-          | {{ $t("Vuetify.Home.checkFeaturesTitleCtd") }}
+          translatable(i18n="Vuetify.Home.checkFeaturesTitleCtd")
+            span {{ $t("Vuetify.Home.checkFeaturesTitleCtd") }}
         v-layout(row wrap justify-center)
           v-flex(
             mx-3
@@ -137,7 +146,8 @@
                 color="green"
                 size="36px"
               ).mr-3 check
-              span.subheading {{ feature }}
+              translatable(:i18n="`Vuetify.Home.checkFeatures[${i}]`")
+                span.subheading {{ $t(`Vuetify.Home.checkFeatures[${i}]`) }}
           v-flex(
             mx-3
             :shrink="$vuetify.breakpoint.mdAndUp"
@@ -152,11 +162,13 @@
                 color="green"
                 size="36px"
               ).mr-3 check
-              span.subheading {{ feature }}
+              translatable(:i18n="`Vuetify.Home.checkFeaturesCtd[${i}]`")
+                span.subheading {{ $t(`Vuetify.Home.checkFeaturesCtd[${i}]`) }}
 
     section#using-vuetify.mb-5
       v-container(grid-list-xl)
         h2.text-xs-center.headline.mb-5.grey--text
+          translatable(i18n="Vuetify.Home.madeWithVuetify")
           span {{ $t("Vuetify.Home.madeWithVuetify") }}
         v-layout(wrap)
           v-flex(
@@ -204,6 +216,7 @@
                   height="64px"
                   width="64px"
                 ).mb-2
+                translatable(i18n="Vuetify.Home.callout")
                 span(v-text="$t('Vuetify.Home.callout')").subheading
 
         v-layout(justify-center).mb-3
@@ -281,16 +294,16 @@
 
     computed: {
       checkFeatures () {
-        return this.$t('Vuetify.Home.checkFeatures')
+        return this.$t('Vuetify.Home.checkFeatures', 'en')
       },
       checkFeaturesCtd () {
-        return this.$t('Vuetify.Home.checkFeaturesCtd')
+        return this.$t('Vuetify.Home.checkFeaturesCtd', 'en')
       },
       computedFeatured () {
         return this.featured.slice(0, 6)
       },
       features () {
-        return this.$t('Vuetify.Home.features').slice().reverse()
+        return this.$t('Vuetify.Home.features', 'en')
       },
       letterFromAuthor () {
         return this.$t('Vuetify.Home.letterFromAuthor')

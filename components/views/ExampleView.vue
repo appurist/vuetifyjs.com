@@ -79,7 +79,7 @@
         template(v-for="(example, i) in examples.slice(1)")
           support-vuetify(v-if="i === 5" :key="i")
           example(
-            :header="`${example.header}`"
+            :header="example.header"
             :new-in="example.new"
             :file="`${folder}/${example.file}`"
             :inverted="example.inverted"
@@ -88,7 +88,6 @@
             :key="example.file"
             :desc="example.desc"
           )
-      section-head {{ $t('Generic.Pages.examples') }}
 
       slot
 </template>
@@ -179,9 +178,11 @@
         const examples = this.data.examples || {}
 
         return Object.keys(examples).map(key => {
-          return Object.assign({
-            file: key
-          }, examples[key])
+          return Object.assign(examples[key], {
+            file: key,
+            desc: `${this.namespace}.examples.${key}.desc`,
+            header: `${this.namespace}.examples.${key}.header`
+          })
         })
       },
       folder () {
@@ -202,7 +203,7 @@
             : []
       },
       toc () {
-        return this.$t(this.data.toc || `Generic.Pages.toc`)
+        return 'Components'
       },
       usage () {
         return this.examples.slice(0, 1).shift()
